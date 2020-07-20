@@ -9,5 +9,5 @@ has_children: true
 
 this is a test admin page
 
-test text
+test text 2
 
