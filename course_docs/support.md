@@ -7,9 +7,7 @@ has_children: true
 
 # Student Support
 
-Your welfare during your PhD is of the utmost importance to us and you will have access to two main forms of independent support as a student on this programme.
-
-You will find information on the [Points of Contact](files/pointsofcontact.pdf) document. 
+Your welfare during your PhD is of the utmost importance to us and you will have access to two main forms of independent support as a student on this programme. You will find further information below and on the [Points of Contact](../files/pointsofcontact.pdf) document. 
 
 ## Support from your University
 
