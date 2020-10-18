@@ -13,24 +13,6 @@ During Year 1 of the Programme, you will maintain an evidence-based training rec
 
 You will first as a cohort come together to build a "Common Core" syllabus.
 
-## Self-evaluation
-
-At the start of the year, you will undertake a self-evaluation checklist exercise by examining the Common Core descriptions and determining which skills and competencies you already possessed and which you have less or no familiarity with. 
-
-**Example Self-Evaluation Checklist**
-
-We have not prescribed a specific form for the checklist. *Be Creative*. However, each is an example of the type of information you will want to record.
-
-| Common Core Area        | Skill/Competency           | Capability  |
-| ------------- |----------| -------------| 
-| Computing      | Programming | I can program in R and Python with high-proficiency. |
-| ------------- |----------| -------------| 
-| Computing      | Software Development and Version Control | I have no experience of using Github or any other version control software. | 
-| ------------- |----------| -------------| 
-| Probability & Statistics      | Bayesian Statistics | I have not studied Bayesian Statistics before. | 
-| ------------- |----------| -------------| 
-| Probability & Statistics      | Likelihood-based inference | I have studied likelihood-based inference during my undergraduate degree but I have no practical experience of applying it. | 
-
 ## Training Record
 
 During Year 1, we want you to reflect and record your thoughts about the training you have received. We do not wish to be prescriptive about what the form of the training record takes, but the following example shows the type of information you might wish to record.
