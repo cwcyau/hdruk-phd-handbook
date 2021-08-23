@@ -7,35 +7,31 @@ has_children: true
 
 # Staff
 
-## Programme Operations Staff
+## Programme Operations
 
 These are the team responsible for the day-to-day running of the programme.
 
 
 | Name        | Role           | Institution | Link  |
-| ------------- |----------| -------------| -----|
-| Peter Diggle      | Director | Lancaster/HDRUK | [Link](https://www.lancaster.ac.uk/staff/diggle) |
-| Christopher Yau      | Co-Director  | Manchester/Turing | [Link](https://www.turing.ac.uk/people/researchers/christopher-yau) |
-| tba | Doctoral Programme Coordinator | Turing | [Link]() |
-| Claudia Carranza (cover for Amy Gallimore) | Recruitment Coordinator | Turing | [Link](https://www.turing.ac.uk/people/business-team/amy-gallimore) |
+:------------- :---------- :------------- :-----|
+| Christopher Yau | PhD Programme Director | Manchester | [Link](https://cwcyau.github.io/) |
+| Sarah Cadman | Director for Talent & Training | HDRUK | [Link](https://www.hdruk.ac.uk/people/sarah-cadman/) |
+| Amy Gallimore | Recruitment Coordinator | Turing | [Link](https://www.turing.ac.uk/people/business-team/amy-gallimore) |
 
 
-## Executive Board
+## University Leads
 
 A panel consisting of representatives from our University Partners and the Alan Turing Institute who advise on the programme implementation and support the development of recruitment, training and research activities.
 
 | Name    | Institution | Link  |
-| ------- | ----------| -----|
-| Mark Lawler   | Queen's Belfast | [Link](https://pure.qub.ac.uk/en/persons/mark-lawler) |
+:------- :----------  :-----|
+| Vijay Tiwari  | Queen's Belfast | [Link](https://www.tiwarilab.com/biography/) |
 | Georgios Gkoutos  | Birmingham | [Link](https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/gkoutos-georgios.aspx) |
 | Iain Styles | Birmingham | [Link](https://www.birmingham.ac.uk/staff/profiles/computer-science/styles-iain.aspx) |
-| Sylvia Richardson  | Cambridge | [Link](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/n-to-s/sylvia-richardson/) |
 | Angela Wood  | Cambridge | [Link](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/angela-wood/) |
 | Miguel Bernabeu | Edinburgh | [Link](https://www.ed.ac.uk/profile/miguel-o-bernabeu) |
 | Catalina Vallejos  | Edinburgh | [Link](https://www.ed.ac.uk/profile/catalinavallejos) |
-| Ben Cairns | Oxford | [Link](https://www.ndph.ox.ac.uk/team/ben-cairns) |
+| Thomas Nichols | Oxford | [Link](https://www.bdi.ox.ac.uk/Team/t-e-nichols) |
 | Niels Peek | Manchester | [Link](https://www.research.manchester.ac.uk/portal/niels.peek.html) |
 | Paul Taylor | UCL | [Link](https://www.ucl.ac.uk/health-informatics/people/paul-taylor) |
 | Ioanna Manolopoulou | UCL | [Link](https://www.ucl.ac.uk/~ucakima/) |
-| Ben Murton | Turing | [Link](https://www.turing.ac.uk/people/business-team/ben-murton) |
-| Kirstie Whitaker | Turing | [Link](https://www.turing.ac.uk/people/researchers/kirstie-whitaker) |

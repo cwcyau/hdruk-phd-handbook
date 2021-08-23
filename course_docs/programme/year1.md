@@ -5,7 +5,7 @@ parent: Programme Details
 nav_order: 1
 ---
 
-# Year 1 Training Programme
+# Year 1
 {: .no_toc }
 
 ## Table of contents
@@ -16,45 +16,84 @@ nav_order: 1
 
 ---
 
-## Remote meetings
+## Objectives
 
-All training events during October to December 2020 will be run remotely, using Zoom. We are hoping to be able to run some residential training events during
-the first half of 2021, depending on the progress of the Covid-19 epidemic. At all times, we will follow the current regulations and advice to ensure the safety of 
-all participants.
+The overall objective of Year 1 of the PhD Programme is to develop a three-year PhD research ("thesis") project proposal that you will carry out in Years 2-4. 
+
+Identifying a research project that you will dedicate three years of your life towards can be challenging. You will be supported by your university and HDRUK in these efforts through a number of activities in the first year to help you with this.
+
+Continuation of your funding support from HDRUK beyond Year 1 is dependent only on successfully developing a credible thesis project. There is no coursework or exams.
 
 ## Induction
 
-The two-day induction meeting 28 and 29 September 2020 is an opportunity for all programme staff and students to meet each other, albeit virtually. It will cover a range of scientific and administrative matters, including overviews of HDRUK's priority research themes and data-resources, and how to make the most of students' opportunities to connect with like-minded students, across the programme and on other programmes within their home unversities.
+The two-day induction meeting at the start of your studies is an opportunity for all HDRUK staff and students to meet each other for the first time. It will cover a range of scientific and administrative matters, including overviews of HDRUK's priority research themes and data-resources, and how to make the most of students' opportunities to connect with like-minded students, across the programme and on other programmes within their home unversities. We will also begin to start cohort development activities to ensure you keep networked as a group throughout your studies.
 
-## Common Core
+## University-based activities
 
-The **Common Core** is a student-led "living" syllabus that consists of key knowledge, skills and competencies that  should be part of the repertoire of expertise for doctoral research health data scientists. 
+At the start of Year 1, you will work with your HDRUK University Lead to develop a bespoke programme of activities that will support your ability to choose a thesis project. 
 
-It is split into six components and we have provided some introductory guidance in the following [descriptions](courses.md):
+Each university will have different facilities and resources at its disposal to support this so we are not prescriptive but the following examples provides guidance on what might be suitable:
 
-	1. Computing
-	2. Probability & Statistics
-	3. Biology
-	4. Reproducible Research
-	5. Ethics
-	6. Team Science and Communication 
+1. Two rotation projects, spanning 8-12 weeks, one in Autumn and one in Spring based within different research groups within your university,
 
-During your first year, your cohort will undertake an exercise to build and construct this syllabus to reflect your own training needs and aspirations. The model you develop will be inherited by the next cohort and we hope to evolve a syllabus that reflects the ever-changing capability requirements of this field.
+2. Graduate-level courses, for example offered as part of a Centre for Doctoral Training, given insights into different research areas,
 
-You will use this framework to continually update your own personal [evidence-based training record](trainingrecord). The intention is for you to reflect on the training provided and to understand how their experiences align with the Common Core. This is not intended to be a "tick box" exercise. The training record will form part of the progress review at the end of Year 1.
+3. Participation in externally-led short projects via the HDRUK community or other partners.
 
-## Immersions 
+You may also want to propose your *own* training regime and we will be happy to support this in discussion with your University Lead and the HDRUK Programme Director.
 
-The aim of immersions, which typically cover several days of intensive work, is to provide students with a deep insight to research activities at each of our university partners and how these align with HDRUK's national health data science research priorities. Each immersion will contain technical training and cohort building activities. We hope students will use the immersions to develop ideas for cross-site PhD research projects in Years 2-4.
+## Workshops
 
-## Mini-projects
+HDRUK will host a series of short workshops throughout the year to give insight into different areas of scientific research carried out by members of our community across all four nations of the UK as well as external partners organisations (e.g. NHS Digital). These could be lunch-time seminars to full or half-day residential events. The aim is to give you insight into assets which are available nationally within or linked to HDRUK that you could access as part of your PhD research.
 
-Students will undertake two mini-projects to develop their experience of working on substantive health science projects whose solutions require the application of advanced quantitative methods. The Covid-19 Challenge project will occupy roughly half of each student's time from November 2020 to January 2021 inclusive, after which we will organise an event  at which students can present their findings to the wider group. Each project will be supervised by a member of the programme staff and the data-owner. 
+## Immersions
 
-## Choosing a PhD project and supervisory team
+Immersion Weeks are extended residential training events lasting 3-4 days. There are normally at least three such events in Year 1. Topics vary from year to year and determine by the immersion event lead but, for example, past immersions have included:
 
-Details regarding choosing a PhD project and supervisory team are given [here](../phd-choice.md).
+- "Clinical Prediction Models" by the Centre for Health Informatics at the University Manchester,
+- "Public Health Data Science" from Statistical Science and Institute of Health Informatics at UCL,
+- "Bioinformatics" by the European Bioinformatics Institute.
 
-## Assessment
+Cohort building events may also be held alongside immersion weeks.
 
-Details of the Year 1 assessment are given [here](../progression.md).
+## Research Project Proposal Assessment
+
+### PPIE Training
+
+An important part of your research proposal will be the lay abstract and the addition of appropriate public-patient co-design and engagement activities. We will leverage the extensive experience of HDRUK to support your training in this area through our PPIE team and our Public Advisory Board to ensure your proposals are written and presented suitably for wider audiencs.
+
+### Assessment Viva
+
+Your thesis project proposals will be assessed by both the Programme Director and a multi-institutional panel of University Leads or External Experts. The aim of the viva is to provide feedback on your project so that you may improve your research plans (where necessary) before the proposal is submitted to Wellcome. 
+
+You may submit your proposal for review in either June or August of your first year. The first deadline allows time for substantial revisions should the project be assessed have deficiencies or permit PhD studies to begin by the summer. The second deadline allows students flexibility to spend longer on first year activities to support project development but does not leave substantial time for revisions should proposals be unsuitable.
+
+<span style="color: red;">**HDRUK approved Research Proposals must be submitted by the 30 September to Wellcome at the end of your first year. Failure to do so may jeopardise continuation of funding support.**</span>
+
+## Away Week
+
+We will hold an annual retreat each summer to support cohort development. These might include a team building exercise at an outdoor education centre or an international visit to a scientific centre.
+
+
+**Approximate Timelines**
+
+| Date | Event |
+:- | :-----------
+October | Induction Event
+October-December | Workshop Series 1
+November | Immersion Week 1
+January | Immersion Week 2
+March | Immersion Week 3
+January-April | Workshop Series 2
+April | PPIE Workshop
+May-August | Thesis Project Development
+June | Research Project Assessment Deadline 1
+July | Away Week
+August | Research Project Assessment Deadline 2
+September | Research Project Submission / Begin Thesis Project
+
+
+
+
+
+

@@ -7,21 +7,14 @@ has_children: true
 
 # Administrative Matters
 
-## Programme Administration Team & Contact Information
-The Programme Administration Team are here to provide help and support on a range of administrative issues relating to the HDR UK/Turing PhD programme.  The Administration Team co-ordinate the administrative functions of the PhD Programme and we are often your first point of contact.  Whether you have a question about expenses, training administration or anything else, we are here to help you through your PhD journey.
+## Programme Administration
 
-### Who's who?
-Kal Kohli, Doctoral Programme Coordinator (HDR UK)
-
-Claudia Carranza, Academic Recruitment Manager (maternity cover for Amy Gallimore)
-
-**Contact us by email at:** [phd@hdruk.ac.uk](phd@hdruk.ac.uk)
-We aim to respond to your enquiry within 3 working days.  Alternatively, If your enquiry is urgent, please call Kal Kohli on +44(0)20 3862 3379.
+The Programme Administration Team are here to provide help and support on a range of administrative issues relating to the HDRUK PhD programme. The Administration Team co-ordinate the administrative functions of the PhD Programme and we are often your first point of contact. Whether you have a question about expenses, training administration or anything else, we are here to help you through your PhD journey.
 
 ## Financial queries
 If you or your university have any questions or queries relating to the payment of fees or stipend for your studentship, please contact the Administration Team in the first instance at [phd@hdruk.ac.uk](phd@hdruk.ac.uk)
 
-**Your stipend is paid to you by your university.  If you have questions about the frequency of these payments, please contact your department.**
+**Your stipend is paid to you by your university. If you have questions about the frequency of these payments, please contact your department.**
 
 ### How to claim for Programme related travel and subsistence expenses ###
 
@@ -45,16 +38,13 @@ The absence and sickness policy is available via Box.
 
 All students must provide acceptable proof of legal right to study in the UK and satisfy the current requirements of UK Visa and Immigration. It is the responsibility of the Student to obtain the correct documents and provide the Administration Team with copies. 
 
-Information regarding visas are found on the following Gov.uk website:
-[https://www.gov.uk/government/organisations/uk-visas-and-immigration](https://www.gov.uk/government/organisations/uk-visas-and-immigration)
+Information regarding visas are found on the following Gov.uk website: [https://www.gov.uk/government/organisations/uk-visas-and-immigration](https://www.gov.uk/government/organisations/uk-visas-and-immigration)
 
 ## Social Media
 
 Get the latest tweets by following, posting, and sharing information on Twitter:
 
 [@HDR_UK](https://twitter.com/HDR_UK)
-
-[@turinginst](https://twitter.com/turinginst)
 
 [@wellcometrust](https://twitter.com/wellcometrust)
 
@@ -65,7 +55,7 @@ You should also join our dedicated Slack channel, for HDR UK PhD students, to di
 Brand guidelines and HDR UK logo are available for download [here](https://www.hdruk.ac.uk/about-us/our-strategy/policies/brandstyleguide/)
 
 ## PhD Student Privacy Notice
-This privacy notice provides you with information about how Health Data Research UK collects and processes your personal data as a student participating in the HDR UK Turing Wellcome PhD Programme in Health Data Science.
+This privacy notice provides you with information about how Health Data Research UK collects and processes your personal data as a student participating in the HDRUK-Turing Wellcome PhD Programme in Health Data Science.
 
 Please familiarise yourself with the PhD Student Privacy Statement available in the Student Area in Box.
 

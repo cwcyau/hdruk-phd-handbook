@@ -3,6 +3,7 @@ layout: default
 title: Courses
 parent: Programme Details
 nav_order: 3
+display: FALSE
 ---
 
 # Course List
