@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Programme Details
-nav_order: 3
+nav_order: 2
 has_children: true
 ---
 
@@ -9,10 +9,10 @@ has_children: true
 
 This page describes the overall programme structure. It is split into two parts: 
 
-[**Year 1 training programme**](year1.md)   
+[**Year 1: Preparing for research**](year1.md)   
 
-[**Year 2-4 research project**](year24.md) 
+- [**Choosing your PhD project**](phd-choice.md)  
+- [**Preparing your PhD proposal**](progression.md)  
 
-[**Course List**](courses)
-
+[**Year 2-4: Research project**](year24.md) 
 

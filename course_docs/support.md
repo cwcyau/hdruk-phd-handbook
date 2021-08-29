@@ -2,7 +2,6 @@
 layout: default
 title: Student Support
 nav_order: 11
-has_children: true
 ---
 
 # Student Support
@@ -35,7 +34,7 @@ The Programme Administration team should be advised if you are experiencing any 
 
 ### University Leads
 
-Our University LEads consists of highly experienced academics with a wide range of experience across a number of disciplines. Our students are welcome to draw upon these experiences where they require subject- or discipline-specific advice in relation to their research studies or professional development. Issues which are personal in nature or not research-specific should first be directed to the Programme Directors.
+Our University Leads consists of highly experienced academics with a wide range of experience across a number of disciplines. Our students are welcome to draw upon these experiences where they require subject- or discipline-specific advice in relation to their research studies or professional development. Issues which are personal in nature or not research-specific should first be directed to the Programme Directors.
 
 *All information will be treated strictly confidentiality unless you tell us otherwise*
 

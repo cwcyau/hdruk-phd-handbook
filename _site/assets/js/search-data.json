@@ -59,513 +59,273 @@
     "url": "http://localhost:4000/course_docs/admin.html",
     "relUrl": "/course_docs/admin.html"
   },"10": {
-    "doc": "C1 Computing",
-    "title": "Table of contents",
-    "content": ". | C1: Computing . | Key Skills and Competencies | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html#table-of-contents",
-    "relUrl": "/course_docs/programme/courses/c1computing.html#table-of-contents"
-  },"11": {
-    "doc": "C1 Computing",
-    "title": "C1: Computing",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html#c1-computing",
-    "relUrl": "/course_docs/programme/courses/c1computing.html#c1-computing"
-  },"12": {
-    "doc": "C1 Computing",
-    "title": "Key Skills and Competencies",
-    "content": ". | To be able to proficiently write software in a high-level programming language (e.g. R or Python) . | To understand the principles of best software development practice and engineering . | To have written software to perform computational and/or statistical tasks for a real-world health data science problem . | To have used version control software (e.g. Github) . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html#key-skills-and-competencies",
-    "relUrl": "/course_docs/programme/courses/c1computing.html#key-skills-and-competencies"
-  },"13": {
-    "doc": "C1 Computing",
-    "title": "C1 Computing",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c1computing.html",
-    "relUrl": "/course_docs/programme/courses/c1computing.html"
-  },"14": {
-    "doc": "C2 Probability & Statistics",
-    "title": "Table of contents",
-    "content": ". | C2: Probability &amp; Statistics . | Key Skills and Competencies | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c2probstats.html#table-of-contents",
-    "relUrl": "/course_docs/programme/courses/c2probstats.html#table-of-contents"
-  },"15": {
-    "doc": "C2 Probability & Statistics",
-    "title": "C2: Probability &amp; Statistics",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c2probstats.html#c2-probability--statistics",
-    "relUrl": "/course_docs/programme/courses/c2probstats.html#c2-probability--statistics"
-  },"16": {
-    "doc": "C2 Probability & Statistics",
-    "title": "Key Skills and Competencies",
-    "content": ". | To be able to transform a real-world qualitative problem into a quantitative mathematical or statistical problem, . | To have applied statistical modelling to perform computational and/or statistical inference for a real-world health data science problem . | To understand the design choices involved in the development of statistical models . | To demonstrate critical skills in the evaluation of statistical models . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c2probstats.html#key-skills-and-competencies",
-    "relUrl": "/course_docs/programme/courses/c2probstats.html#key-skills-and-competencies"
-  },"17": {
-    "doc": "C2 Probability & Statistics",
-    "title": "C2 Probability & Statistics",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c2probstats.html",
-    "relUrl": "/course_docs/programme/courses/c2probstats.html"
-  },"18": {
-    "doc": "C3 Biology",
-    "title": "Table of contents",
-    "content": ". | C3: Biology . | Key Skills and Competencies | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c3biology.html#table-of-contents",
-    "relUrl": "/course_docs/programme/courses/c3biology.html#table-of-contents"
-  },"19": {
-    "doc": "C3 Biology",
-    "title": "C3: Biology",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c3biology.html#c3-biology",
-    "relUrl": "/course_docs/programme/courses/c3biology.html#c3-biology"
-  },"20": {
-    "doc": "C3 Biology",
-    "title": "Key Skills and Competencies",
-    "content": ". | To have acquire a basic understanding of key molecular and cellular biology concepts . | To have demonstrated the ability to understand more about biological concepts through self-directed learning and guided support . | To have presented (orally or in written form) reports on biological topics outside your normal area of expertise . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c3biology.html#key-skills-and-competencies",
-    "relUrl": "/course_docs/programme/courses/c3biology.html#key-skills-and-competencies"
-  },"21": {
-    "doc": "C3 Biology",
-    "title": "C3 Biology",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c3biology.html",
-    "relUrl": "/course_docs/programme/courses/c3biology.html"
-  },"22": {
-    "doc": "C4 Reproducible Research",
-    "title": "Table of contents",
-    "content": ". | C4: Reproducible Research . | Key Skills and Competencies | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c4reproducibility.html#table-of-contents",
-    "relUrl": "/course_docs/programme/courses/c4reproducibility.html#table-of-contents"
-  },"23": {
-    "doc": "C4 Reproducible Research",
-    "title": "C4: Reproducible Research",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c4reproducibility.html#c4-reproducible-research",
-    "relUrl": "/course_docs/programme/courses/c4reproducibility.html#c4-reproducible-research"
-  },"24": {
-    "doc": "C4 Reproducible Research",
-    "title": "Key Skills and Competencies",
-    "content": ". | To understand the importance of reproducibility in science . | To have understood the processes involved in reproducible data science . | To exercise those skills for a real-world project . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c4reproducibility.html#key-skills-and-competencies",
-    "relUrl": "/course_docs/programme/courses/c4reproducibility.html#key-skills-and-competencies"
-  },"25": {
-    "doc": "C4 Reproducible Research",
-    "title": "C4 Reproducible Research",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c4reproducibility.html",
-    "relUrl": "/course_docs/programme/courses/c4reproducibility.html"
-  },"26": {
-    "doc": "C5 Research Ethics",
-    "title": "Table of contents",
-    "content": ". | C5: Research Ethics . | Key Skills and Competencies | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c5ethics.html#table-of-contents",
-    "relUrl": "/course_docs/programme/courses/c5ethics.html#table-of-contents"
-  },"27": {
-    "doc": "C5 Research Ethics",
-    "title": "C5: Research Ethics",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c5ethics.html#c5-research-ethics",
-    "relUrl": "/course_docs/programme/courses/c5ethics.html#c5-research-ethics"
-  },"28": {
-    "doc": "C5 Research Ethics",
-    "title": "Key Skills and Competencies",
-    "content": ". | To understand the wider social and ethical implications of health data research . | To recognise the practial challenges of information security for health data linkage and analytics . | To have consider these factors in the development of your PhD research proposal . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c5ethics.html#key-skills-and-competencies",
-    "relUrl": "/course_docs/programme/courses/c5ethics.html#key-skills-and-competencies"
-  },"29": {
-    "doc": "C5 Research Ethics",
-    "title": "C5 Research Ethics",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c5ethics.html",
-    "relUrl": "/course_docs/programme/courses/c5ethics.html"
-  },"30": {
-    "doc": "C6 Team Science and Communication Skills",
-    "title": "Table of contents",
-    "content": ". | C6: Team Science and Communication Skills . | Key Skills and Competencies | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c6teamscience.html#table-of-contents",
-    "relUrl": "/course_docs/programme/courses/c6teamscience.html#table-of-contents"
-  },"31": {
-    "doc": "C6 Team Science and Communication Skills",
-    "title": "C6: Team Science and Communication Skills",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c6teamscience.html#c6-team-science-and-communication-skills",
-    "relUrl": "/course_docs/programme/courses/c6teamscience.html#c6-team-science-and-communication-skills"
-  },"32": {
-    "doc": "C6 Team Science and Communication Skills",
-    "title": "Key Skills and Competencies",
-    "content": ". | To understand the motivation for the “One Institute” concept of HDRUK . | To recognise that the scale of modern health problems requires a multi-individual, multi-organisational collaborative approach . | To develop an effective means of working with others on agile scientific projects . | To understand different modes of communication and roles in team science . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c6teamscience.html#key-skills-and-competencies",
-    "relUrl": "/course_docs/programme/courses/c6teamscience.html#key-skills-and-competencies"
-  },"33": {
-    "doc": "C6 Team Science and Communication Skills",
-    "title": "C6 Team Science and Communication Skills",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/c6teamscience.html",
-    "relUrl": "/course_docs/programme/courses/c6teamscience.html"
-  },"34": {
-    "doc": "Courses",
-    "title": "Course List",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses.html#course-list",
-    "relUrl": "/course_docs/programme/courses.html#course-list"
-  },"35": {
-    "doc": "Courses",
-    "title": "Year 1",
-    "content": "The Common Core specification: . | C1: Computing | C2: Probability &amp; Statistics | C3: Biology | C4: Reproducible Research | C5: Research Ethics | C6: Team Science and Communications | . Training Courses . | How To Build a Health Data Scientist | Foundations of Probability and Statistics | Clinical Prediction Models | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses.html#year-1",
-    "relUrl": "/course_docs/programme/courses.html#year-1"
-  },"36": {
-    "doc": "Courses",
-    "title": "Year 2",
-    "content": ". | Leadership in Healthcare | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses.html#year-2",
-    "relUrl": "/course_docs/programme/courses.html#year-2"
-  },"37": {
-    "doc": "Courses",
-    "title": "Year 3",
-    "content": ". | Leadership in Healthcare | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses.html#year-3",
-    "relUrl": "/course_docs/programme/courses.html#year-3"
-  },"38": {
-    "doc": "Courses",
-    "title": "Year 4",
-    "content": ". | Leadership in Healthcare | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses.html#year-4",
-    "relUrl": "/course_docs/programme/courses.html#year-4"
-  },"39": {
-    "doc": "Courses",
-    "title": "Courses",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses.html",
-    "relUrl": "/course_docs/programme/courses.html"
-  },"40": {
-    "doc": "How to Build a Health Data Scientist",
-    "title": "Table of contents",
-    "content": ". | How to Build a Health Data Scientist . | Overview | Things to consider | Milestones | Useful links | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/howtobuildahealthdatascientist.html#table-of-contents",
-    "relUrl": "/course_docs/programme/courses/howtobuildahealthdatascientist.html#table-of-contents"
-  },"41": {
-    "doc": "How to Build a Health Data Scientist",
-    "title": "How to Build a Health Data Scientist",
-    "content": "Organisers: . | Christopher Yau | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/howtobuildahealthdatascientist.html",
-    "relUrl": "/course_docs/programme/courses/howtobuildahealthdatascientist.html"
-  },"42": {
-    "doc": "How to Build a Health Data Scientist",
-    "title": "Overview",
-    "content": "This is a cohort exercise for year one students to construct your own “living” training syllabus for health data science. You will consider the following six “core” areas: . Common Core Areas: . | Computing | Probability &amp; Statistics | Biology | Reproducible Research | Ethics | Team Science and Communication | . This syllabus will evolve over your first year as you encounter new experiences that will allow you to reinforce or update your expectations and beliefs. We want your “actual” training experiences with us to form a training framework for future cohorts and inform training initiatives across HDRUK and more widely both nationally and internationally. ",
-    "url": "http://localhost:4000/course_docs/programme/courses/howtobuildahealthdatascientist.html#overview",
-    "relUrl": "/course_docs/programme/courses/howtobuildahealthdatascientist.html#overview"
-  },"43": {
-    "doc": "How to Build a Health Data Scientist",
-    "title": "Things to consider",
-    "content": ". | What high-level competencies should we place under each area? | What specific skills or knowledge should a health data scientist really know? | Which of these are relevant for doctoral researchers? | What particular requirements are there for health and medical sciences? | What is the personal or external evidence base for your choices? | At the end of your PhD, where do you want to be? | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/howtobuildahealthdatascientist.html#things-to-consider",
-    "relUrl": "/course_docs/programme/courses/howtobuildahealthdatascientist.html#things-to-consider"
-  },"44": {
-    "doc": "How to Build a Health Data Scientist",
-    "title": "Milestones",
-    "content": "There will be four major milestones (and approximate timelines): . | First draft of syllabus plus group presentation [Y1, End of October] | First revision. “What has changed after three months of project work?” [Y1, January] | Second revision. “End of Year Reflections” [Y1, May/June] | Publication. “We are the HDRUK-Turing PhD students …” [Y1, September] | . Working materials will be stored on a shared Google documents. Final publication will be prepared with the support of the HDRUK Training Group. ",
-    "url": "http://localhost:4000/course_docs/programme/courses/howtobuildahealthdatascientist.html#milestones",
-    "relUrl": "/course_docs/programme/courses/howtobuildahealthdatascientist.html#milestones"
-  },"45": {
-    "doc": "How to Build a Health Data Scientist",
-    "title": "Useful links",
-    "content": ". | HDRUK Becoming a health data scientist . | Royal Society Dynamics of Data Science Skills . | IBM Data Science . | UK Government Data Scientist . | EU EDISON Project . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/howtobuildahealthdatascientist.html#useful-links",
-    "relUrl": "/course_docs/programme/courses/howtobuildahealthdatascientist.html#useful-links"
-  },"46": {
     "doc": "Introduction",
     "title": "HDRUK-Turing Wellcome PhD Programme in Health Data Science",
     "content": ". I am excited to welcome you to the start of your doctoral studies with Health Data Research UK (HDRUK) and our seven partner universities: Queen’s Belfast, Birmingham, Cambridge, Edinburgh, Manchester, Oxford and University College London. The programme is funded by the Wellcome Trust and champions their principles of scientific excellence and changing research culture for the better. Each of you is both a member of the HDRUK community and a postgraduate research student at your university. What this will mean in practice is somthing we will discover together in the months ahead as a group – this is a ground breaking and novel PhD programme. My hope and expectation is that each of you will benefit from being a member of two distinct but overlapping cohorts leveraging both your local university environment and the national structure of HDRUK to become the future leaders of health data science. Over the four years of your studies you will work towards developing and implementing an exciting research project at your university but, with our support at HDRUK, we hope to enhance that experience by helping to increase the level of your scientific insight through access to national level expertise and infrastructure, strengthen its impact on the public and patients and to support your development as individuals. We wish you the best at the very start of this journey. Professor Christopher Yau, Programme Director . ",
     "url": "http://localhost:4000/course_docs/introduction.html#hdruk-turing-wellcome-phd-programme-in-health-data-science",
     "relUrl": "/course_docs/introduction.html#hdruk-turing-wellcome-phd-programme-in-health-data-science"
-  },"47": {
+  },"11": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": " ",
     "url": "http://localhost:4000/course_docs/introduction.html",
     "relUrl": "/course_docs/introduction.html"
-  },"48": {
-    "doc": "Leadership in Healthcare",
-    "title": "Table of contents",
-    "content": ". | Leadership in Healthcare . | Overview | Reading List | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/leadership.html#table-of-contents",
-    "relUrl": "/course_docs/programme/courses/leadership.html#table-of-contents"
-  },"49": {
-    "doc": "Leadership in Healthcare",
-    "title": "Leadership in Healthcare",
-    "content": "Organisers: . | Peter Bannister | … | Christopher Yau | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/leadership.html",
-    "relUrl": "/course_docs/programme/courses/leadership.html"
-  },"50": {
-    "doc": "Leadership in Healthcare",
-    "title": "Overview",
-    "content": "This course will introduce concepts and methods for developing your leadership capabilities. ",
-    "url": "http://localhost:4000/course_docs/programme/courses/leadership.html#overview",
-    "relUrl": "/course_docs/programme/courses/leadership.html#overview"
-  },"51": {
-    "doc": "Leadership in Healthcare",
-    "title": "Reading List",
-    "content": " ",
-    "url": "http://localhost:4000/course_docs/programme/courses/leadership.html#reading-list",
-    "relUrl": "/course_docs/programme/courses/leadership.html#reading-list"
-  },"52": {
+  },"12": {
     "doc": "Choosing your PhD",
     "title": "Choosing your PhD",
-    "content": "During Year 1, you will identify a PhD project to carry out in Years 2-4. You will need to complete a 1-2 page research proposal with your supervision team detailing the information given below. The proposal will be reviewed by the Programme Directors as part of your Year 1 Progression requirements. The Programme Directors reserve the right to ask you to modify or change your proposal if the intended research does not match the aims of this PhD programme. ",
-    "url": "http://localhost:4000/course_docs/phd-choice.html",
-    "relUrl": "/course_docs/phd-choice.html"
-  },"53": {
+    "content": "During Year 1, you will identify a PhD project to carry out in Years 2-4. You will need to complete a research proposal form with your supervision team detailing the information given below. The proposal will be reviewed by the Programme Directors as part of your Year 1 Progression requirements. The Programme Directors reserve the right to ask you to modify or change your proposal if the intended research does not match the aims of this PhD programme. ",
+    "url": "http://localhost:4000/course_docs/programme/phd-choice.html",
+    "relUrl": "/course_docs/programme/phd-choice.html"
+  },"13": {
     "doc": "Choosing your PhD",
     "title": "The Supervision team",
-    "content": "This must include a primary supervisor who is based at your home university and co-supervisors who may be based at another university. We strongly encourage novel cross-university collaborations between HDRUK and Turing-affiliated universities. We also very much welcome supervision teams involving early-career academics who may have greater capacity to work with you on a day-to-day basis than very senior academics. Please also advise of any non-academic support you may receive (e.g. a company), what their involvement would be and what contractual arrangements are in place to govern these relationships. Note that a primary supervisor is someone who takes overall responsibility for your PhD progression on behalf of your home university. They do not necessarily need to be responsible for setting the research challenge or working with you on a regular basis. ",
-    "url": "http://localhost:4000/course_docs/phd-choice.html#the-supervision-team",
-    "relUrl": "/course_docs/phd-choice.html#the-supervision-team"
-  },"54": {
+    "content": "This must include a primary Academic Lead Supervisor who is based at your home university and co-supervisors who may be based at another university. We strongly encourage novel cross-university collaborations between HDRUK and Turing-affiliated universities. We also very much welcome supervision teams involving early-career academics who may have greater capacity to work with you on a day-to-day basis than very senior academics. Please also advise of any non-academic support you may receive (e.g. a company), what their involvement would be and what contractual arrangements are in place to govern these relationships. Note that the primary Academic Lead Supervisor is someone who takes overall responsibility for your PhD progression on behalf of your home university. They may not necessarily be setting the research challenges or working with you on a daily basis. This support may come from the wider supervision team. ",
+    "url": "http://localhost:4000/course_docs/programme/phd-choice.html#the-supervision-team",
+    "relUrl": "/course_docs/programme/phd-choice.html#the-supervision-team"
+  },"14": {
     "doc": "Choosing your PhD",
     "title": "The Research Challenge",
     "content": "An overview of the research question(s) you wish to address during the project. The programme is not intended to be restrictive in the research areas that you can address but we expect that proposal would normally be related to HDRUK research areas and would include theoretical, methodological and/or applied elements. It is unlikely that we would approve projects, for example, primarily involving: . | Substantial laboratory-based experimental work, | Substantial field work and/or direct data collection, | Qualitative research methods, | Research that only relates to health in an indirect way, | Pure theoretical or methodology research with no evidence of a route to a relevant health application. | . Your overall research plan may, however include limited experience of, or training in, such areas for the purposes of gaining insight and broadening your understanding of different research methodologies. ",
-    "url": "http://localhost:4000/course_docs/phd-choice.html#the-research-challenge",
-    "relUrl": "/course_docs/phd-choice.html#the-research-challenge"
-  },"55": {
+    "url": "http://localhost:4000/course_docs/programme/phd-choice.html#the-research-challenge",
+    "relUrl": "/course_docs/programme/phd-choice.html#the-research-challenge"
+  },"15": {
+    "doc": "Choosing your PhD",
+    "title": "Public and Patient Participation",
+    "content": "Both Wellcome and Health Data Research UK strongly support the inclusion of public and patient participants in research. This may involve direct co-design of research in some instances, where relevant, or in other cases, simply ensuring research is written and/or explained in an accessible way. Your research proposals will include lay summaries that need to be written to a standard that will withstand the scrutiny of our Patient and Public Advisors. ",
+    "url": "http://localhost:4000/course_docs/programme/phd-choice.html#public-and-patient-participation",
+    "relUrl": "/course_docs/programme/phd-choice.html#public-and-patient-participation"
+  },"16": {
     "doc": "Choosing your PhD",
     "title": "Publication Plan",
     "content": "Publishing research outputs is an important part of a modern PhD. Outline what research outputs are anticipated. We are particularly interested in evidence that your research plan will give you the opportunity to produce standalone publishable outputs that are independent of any large collaborative projects that you may be linked to. ",
-    "url": "http://localhost:4000/course_docs/phd-choice.html#publication-plan",
-    "relUrl": "/course_docs/phd-choice.html#publication-plan"
-  },"56": {
+    "url": "http://localhost:4000/course_docs/programme/phd-choice.html#publication-plan",
+    "relUrl": "/course_docs/programme/phd-choice.html#publication-plan"
+  },"17": {
     "doc": "Choosing your PhD",
     "title": "Data Access and Ethics",
     "content": "Detail any datasets you require that require special permissions to access. Outline any ethics approvals you may require. Provide an estimated time frame for obtaining data and ethics approvals. Delays in data access or ethics approval can place student PhD progression at severe risk. We recommend that proposals have these in place before you begin work on your thesis project. ",
-    "url": "http://localhost:4000/course_docs/phd-choice.html#data-access-and-ethics",
-    "relUrl": "/course_docs/phd-choice.html#data-access-and-ethics"
-  },"57": {
+    "url": "http://localhost:4000/course_docs/programme/phd-choice.html#data-access-and-ethics",
+    "relUrl": "/course_docs/programme/phd-choice.html#data-access-and-ethics"
+  },"18": {
     "doc": "Choosing your PhD",
     "title": "Risk mitigation plan",
     "content": "Identify any potential foreseeable obstacles that may prevent your project from proceeding on time or being delayed. Examples include delayed access to data or ethics protocol rejection. Discuss what alternatives will be available to you. ",
-    "url": "http://localhost:4000/course_docs/phd-choice.html#risk-mitigation-plan",
-    "relUrl": "/course_docs/phd-choice.html#risk-mitigation-plan"
-  },"58": {
-    "doc": "Foundations of Probability and Statistics",
-    "title": "Table of contents",
-    "content": ". | Foundations of Probability and Statistics . | Overview | Syllabus | Reading List | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/probstatsfoundations.html#table-of-contents",
-    "relUrl": "/course_docs/programme/courses/probstatsfoundations.html#table-of-contents"
-  },"59": {
-    "doc": "Foundations of Probability and Statistics",
-    "title": "Foundations of Probability and Statistics",
-    "content": "Organisers: . | Peter Diggle | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/probstatsfoundations.html",
-    "relUrl": "/course_docs/programme/courses/probstatsfoundations.html"
-  },"60": {
-    "doc": "Foundations of Probability and Statistics",
-    "title": "Overview",
-    "content": "This course aims to introduce students to the role of statistics in scientific research, and to the fundamental results in probability that provide the theoretical basis of many statistical methods used to analysis scientific data. The emphasis throughout will be on general concepts rather than specific techniques that can be learnt through a combination of directed reading and practical application. The course will be delivered though a series of online lectures, follow-up tutorial discussions and suggestions for practical work that students can complete in their own time. ",
-    "url": "http://localhost:4000/course_docs/programme/courses/probstatsfoundations.html#overview",
-    "relUrl": "/course_docs/programme/courses/probstatsfoundations.html#overview"
-  },"61": {
-    "doc": "Foundations of Probability and Statistics",
-    "title": "Syllabus",
-    "content": ". | Statistics and scientific method . | Investigating Newton’s law; inference - estimation, testing, prediction | . | Experimental design and analysis . | Systematic and random variation; blocking, randomisation, controlling and adjusting; design and analysis of simple comparative experiments | . | Probability . | Laws of probability; conditional probability; Bayes Theorem; random variables; parametric families of probability distributions | . | Likelihood-based inference . | Inferential questions; populations and samples; statistical and clinical significance; the likelihood function; properties of MLEs and GLRTs; Bayesian parametric inference; Monte Carlo methods | . | Dependent data . | From random variables to stochastic processes; case-study on disease prevalence mapping | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/probstatsfoundations.html#syllabus",
-    "relUrl": "/course_docs/programme/courses/probstatsfoundations.html#syllabus"
-  },"62": {
-    "doc": "Foundations of Probability and Statistics",
-    "title": "Reading List",
-    "content": ". | Clayton, D. and Hills, M. (1993). Statistical Models in Epidemiology. Oxford: Oxford University Press. | Diggle, P.J. and Chetwynd, A.G. (2011). Statistics and Scientific Method: an Introduction for Students and Researchers. Oxford: Oxford University Press. | Diggle, P.J. and Giorgi, E. (2019). Model-based Geostatistics: Methods and Applications in Global Public Health. Boca Raton: CRC Press | Gamerman, D. and Lopes, H.F. (2006). Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference (Second Edition). Boca Raton: Chapman and Hall/CRC Press | Grimmett, G. and Welsh, D. (2014). Probability: An Introduction (second edition). Oxford: Oxford University Press | Lindley, D.V. (2000). The philosophy of statistics (with Discussion). The Statistician, 49, 293–337. | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/probstatsfoundations.html#reading-list",
-    "relUrl": "/course_docs/programme/courses/probstatsfoundations.html#reading-list"
-  },"63": {
+    "url": "http://localhost:4000/course_docs/programme/phd-choice.html#risk-mitigation-plan",
+    "relUrl": "/course_docs/programme/phd-choice.html#risk-mitigation-plan"
+  },"19": {
     "doc": "Programme Details",
     "title": "The Programme",
-    "content": "This page describes the overall programme structure. It is split into two parts: . Year 1 training programme . Year 2-4 research project . Course List . ",
+    "content": "This page describes the overall programme structure. It is split into two parts: . Year 1: Preparing for research . | Choosing your PhD project | Preparing your PhD proposal | . Year 2-4: Research project . ",
     "url": "http://localhost:4000/course_docs/programme/programme.html#the-programme",
     "relUrl": "/course_docs/programme/programme.html#the-programme"
-  },"64": {
+  },"20": {
     "doc": "Programme Details",
     "title": "Programme Details",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/programme.html",
     "relUrl": "/course_docs/programme/programme.html"
-  },"65": {
+  },"21": {
+    "doc": "Progression",
+    "title": "Preparing your research proposal",
+    "content": "The overall objective of Year 1 of the PhD Programme is to develop a three-year PhD research (“thesis”) project proposal that you will carry out in Years 2-4. Research proposals will be formally reviewed by a panel of academics and a decision made on the suitability of the project. ",
+    "url": "http://localhost:4000/course_docs/programme/progression.html#preparing-your-research-proposal",
+    "relUrl": "/course_docs/programme/progression.html#preparing-your-research-proposal"
+  },"22": {
+    "doc": "Progression",
+    "title": "Project Eligibility Criteria",
+    "content": "You will need to produce a research proposal that meets the following criteria: . | The primary supervisor should be an academic staff member of the university at which the student is registered, with a contract of employment that extends beyond the end of study period for the student. They would also commit to delivering at least one day per year of material within the first-year training programme for each cohort of students. | We strongly encourage the inclusion of early-career academics and colleagues from other institutions as members of supervisory teams. | The summary of the proposed area of work should be a plan rather than a prescription, setting specific initial objectives and broad later lines of inquiry. It should give sufficient detail to confirm that it falls with the scope of the HDRUK PhD programme, i.e. has the potential for methodological innovation and substantive application. | . ",
+    "url": "http://localhost:4000/course_docs/programme/progression.html#project-eligibility-criteria",
+    "relUrl": "/course_docs/programme/progression.html#project-eligibility-criteria"
+  },"23": {
+    "doc": "Progression",
+    "title": "The Proposal",
+    "content": "Your research proposal will need to contain the following elements: . Lay Summary . Provide a summary of your proposed research for a non-specialist audience. You don’t need to oversimplify your research, but try to explain it as clearly as possible. Write in the first person (“I” and “we”) and structure your summary in this order: background to the research problem; your approach; expected impact of your work. Take care not to include anything confidential or commercially sensitive. Research summary . Describe your research project, including key goals, for an expert audience. This must include: . | Aims and research questions; | Work which has led up to the project; | Approach and methods you will use; and | Timetable and milestones, if appropriate. | . Do not exceed 700 words. References . Give the citation in full, including title of paper and all authors. Outputs management plan . All Wellcome PhD programme students are expected to manage their research outputs in a way that will achieve the greatest health benefit, maximising the availability of research data, software and materials with as few restrictions as possible. Guidance on developing an outputs management plan, which includes a link to some good examples, is available here. If an outputs management plan is not required, explain why. Additional information . You will also be asked to provide information on: . | Any proposed research that might involve human participants, human biological material and identifiable data, | Risks of research misuse, | Freedom to operate/conflicts of interest (particularly when involving commercial partners), | Anticipated spending requirements | . ",
+    "url": "http://localhost:4000/course_docs/programme/progression.html#the-proposal",
+    "relUrl": "/course_docs/programme/progression.html#the-proposal"
+  },"24": {
+    "doc": "Progression",
+    "title": "Year 1 Review Panel",
+    "content": "Objective . The purpose of the Year 1 Review Panel is to: . | Verify that the candidate has been actively engaged in the Year 1 Training Programme | Evaluate the proposed PhD Research Project | Recommend that the candidate proceed to the second year of the programme. | . Prerequisites . The candidate shall submit a written PhD research proposal no less than one week before the review panel. The Review Panel . The review panel shall consist of no less than three academic representatives to include: . | The HDRUK-Turing PhD Director (or nominated representative) | The University Lead (or nominated representative) for the candidates’ institution | An independent academic representative not based at the candidates’ institution. | . No members of the proposed supervision team shall be present on the review panel and suitable substitutes will be put in place if any of the above are proposed supervisors. Evaluation Criteria . The panel shall: . | Evaluate if the proposed research falls under the scientific remit of the HDRUK-Turing PhD Programme. | Judge if the proposed research is feasible and that a sufficient body of work could be achieved within three years to permit the award of a doctorate. | Determine if the supervision team has the appropriate range of expertise, experience and availability to suitably guide the candidate. | Verify that the necessary data and/or computational resources are in place (or there is a credible plan for these to be in place) to accomplish the research objectives. | Identify if a suitable output management strategy is in place to allow appropriate dissemination of the research outputs. | Consider if appropriate ethical and/or research protocols are in place to allow the work to be conducted. | Determine if the proposed research expenses are justified. | Evaluate if public-patient engagement has been considered. | . Decisions . At the conclusion of the review, the panel shall make one of three following decisions: . | Proceed to Year 2. The panel considers there to be no major issues with the proposal and no (or very minor) corrections are required. | Minor revisions. The panel determines that the proposal is sound but some minor revisions are required to clarify or improve the proposal. | Major revisions. The panel considers that there are significant flaws in the research proposal and a major revision or alternative proposal is required. | . If revisions are required, the candidate will be provided with advice and guidance as to the additional steps required. It is considered unlikely that major revisions would be required if the candidates routinely consult with their University Lead or the Programme Directors during the project proposal development. Scientific Remit . HDRUK research currently covers a broad range of areas but proposed research projects must involve quantitative-based research which is likely to involve one or more of the following: . | The design and implementation of novel analysis methods, | Use of electronic health records, | Integrative analysis across different health data modalities, | Investigation of epidemiology or population research questions, | Investigation of the causes of human disease. | . Primary research activities should not include experimental (laboratory-based) work, qualitative studies or extensive data collection though some limited exposure to these activities are permitted for training and experience purposes. Proposals focusing on non-human organisms or have a specific focus on understanding fundamental human biology may not be appropriate. Pure methodology projects should be motivated by health data research problems or indicate a path to utility for research applications. Supervisory Support . Supervision teams are expected to contain the range and depth of expertise required to support the student in their personal and research development. Otherwise, there are no restrictions on the constitution of supervision teams beyond the normal requirements set by individual universities on supervisor eligibility. Note - due to the COVID-19 pandemic, students may not have had normal interactions with their universities and the opportunity to meet academics. Therefore some flexibility can be shown to allow supervision teams to grow during the PhD. ",
+    "url": "http://localhost:4000/course_docs/programme/progression.html#year-1-review-panel",
+    "relUrl": "/course_docs/programme/progression.html#year-1-review-panel"
+  },"25": {
+    "doc": "Progression",
+    "title": "Project Submission",
+    "content": "Once approved, a subset of students will be required to submit their research proposals to Wellcome via the WT Grants Tracker system. All proposed supervisors will need to also digitally verify their participation. HDRUK will be asked to approve all submissions on the WT Grants System. Students are advised to submit projects well in advance of the given deadlines to allow these approvals to be obtained. ",
+    "url": "http://localhost:4000/course_docs/programme/progression.html#project-submission",
+    "relUrl": "/course_docs/programme/progression.html#project-submission"
+  },"26": {
     "doc": "Progression",
     "title": "Progression",
     "content": " ",
-    "url": "http://localhost:4000/course_docs/progression.html",
-    "relUrl": "/course_docs/progression.html"
-  },"66": {
-    "doc": "Progression",
-    "title": "Programme Requirements",
-    "content": "Progression through this PhD programme involves a mixture of milestones set by both this Programme and your Home University. We expect all our students to: . | Engage actively and constructively in all aspects of the training programme, | Develop and conduct an approved research plan that will lead to your PhD qualification. | . At the end of Year One, each student will have an interview with the Programme Directors and members of the Executive Board. We will discuss your engagement and contribution to the Year One Training Programme (via your Evidence-based Training Record) and the contents of your proposed research plan for Years 2-4. The outcome will be one of the following (note that all interview outcomes are conditional on home university requirements also being fulfilled): . | Approved: the student may progress to Year 2 of the PhD programme. | Request for Revision: the student has engaged well with the training programme but is required to revise their PhD research plan and resubmit for review. | Request for New Research Plan: the student has engaged well with the training programme but is required to devise a new PhD research plan and resubmit for review. | Cause for Concern: the interview panel has identified issues related to your engagement with the PhD programme and will advise a further consultation with yourself and your home university to determine the next steps. | . Cause for concern may arise due to factors such as unexplained or unauthorised absence, failure to participate in training activities, poor conduct when engaging with other students or staff. In exceptional circumstances, it could lead to the termination of your studentship. If at any stage of your PhD, you face personal or professional circumstances requiring extra support, please see the Student Support area for ways to find help. In Years 2-4, the PhD programme will continue to request regular reports of your progress but would normally defer formal progression requirements to your home university. ",
-    "url": "http://localhost:4000/course_docs/progression.html#programme-requirements",
-    "relUrl": "/course_docs/progression.html#programme-requirements"
-  },"67": {
-    "doc": "Progression",
-    "title": "Home University Requirements",
-    "content": "Your home university will outline its own PhD progression requirements. Most universities have annual progression milestones that must be met. You will need to satisfy these requirements in order to maintain your place on this PhD programme. ",
-    "url": "http://localhost:4000/course_docs/progression.html#home-university-requirements",
-    "relUrl": "/course_docs/progression.html#home-university-requirements"
-  },"68": {
-    "doc": "Clinical Prediction Models",
-    "title": "Table of contents",
-    "content": ". | Clinical Prediction Models . | Overview | Syllabus | Reading List | . | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/riskprediction.html#table-of-contents",
-    "relUrl": "/course_docs/programme/courses/riskprediction.html#table-of-contents"
-  },"69": {
-    "doc": "Clinical Prediction Models",
-    "title": "Clinical Prediction Models",
-    "content": "Organisers: . | Niels Peek (University of Manchester) | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/riskprediction.html",
-    "relUrl": "/course_docs/programme/courses/riskprediction.html"
-  },"70": {
-    "doc": "Clinical Prediction Models",
-    "title": "Overview",
-    "content": "This course aims to introduce students to clinical prediction models including topics such as regression analysis, causal inference and model validation and generalisation. This will be done in the context of health data research. The course will be delivered though a series of online lectures and practicals with follow-up support. There will be an opportunity to see the work of PhD students in the area join a meeting of the North West Clinical Prediction Modelling group. ",
-    "url": "http://localhost:4000/course_docs/programme/courses/riskprediction.html#overview",
-    "relUrl": "/course_docs/programme/courses/riskprediction.html#overview"
-  },"71": {
-    "doc": "Clinical Prediction Models",
-    "title": "Syllabus",
-    "content": ". | Clinical decision making and prediction models. | Regression analysis for health outcomes. | Model validation and generalisation. | Prediction and causal inference. | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/riskprediction.html#syllabus",
-    "relUrl": "/course_docs/programme/courses/riskprediction.html#syllabus"
-  },"72": {
-    "doc": "Clinical Prediction Models",
-    "title": "Reading List",
-    "content": ". | Hastie, Tibshirani, Friedman (2009) The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Second Edition, February 2009. | . ",
-    "url": "http://localhost:4000/course_docs/programme/courses/riskprediction.html#reading-list",
-    "relUrl": "/course_docs/programme/courses/riskprediction.html#reading-list"
-  },"73": {
+    "url": "http://localhost:4000/course_docs/programme/progression.html",
+    "relUrl": "/course_docs/programme/progression.html"
+  },"27": {
     "doc": "Staff",
     "title": "Staff",
     "content": " ",
     "url": "http://localhost:4000/course_docs/staff.html",
     "relUrl": "/course_docs/staff.html"
-  },"74": {
+  },"28": {
     "doc": "Staff",
     "title": "Programme Operations",
     "content": "These are the team responsible for the day-to-day running of the programme. | Name | Role | Institution | Link | . | Christopher Yau | PhD Programme Director | Manchester | Link | . | Sarah Cadman | Director for Talent &amp; Training | HDRUK | Link | . | Amy Gallimore | Recruitment Coordinator | Turing | Link | . ",
     "url": "http://localhost:4000/course_docs/staff.html#programme-operations",
     "relUrl": "/course_docs/staff.html#programme-operations"
-  },"75": {
+  },"29": {
     "doc": "Staff",
     "title": "University Leads",
     "content": "A panel consisting of representatives from our University Partners and the Alan Turing Institute who advise on the programme implementation and support the development of recruitment, training and research activities. | Name | Institution | Link | . | Vijay Tiwari | Queen’s Belfast | Link | . | Georgios Gkoutos | Birmingham | Link | . | Iain Styles | Birmingham | Link | . | Angela Wood | Cambridge | Link | . | Miguel Bernabeu | Edinburgh | Link | . | Catalina Vallejos | Edinburgh | Link | . | Thomas Nichols | Oxford | Link | . | Niels Peek | Manchester | Link | . | Paul Taylor | UCL | Link | . | Ioanna Manolopoulou | UCL | Link | . ",
     "url": "http://localhost:4000/course_docs/staff.html#university-leads",
     "relUrl": "/course_docs/staff.html#university-leads"
-  },"76": {
+  },"30": {
     "doc": "Student Support",
     "title": "Student Support",
     "content": "Your welfare during your PhD is of the utmost importance to us and you will have access to two main forms of independent support as a student on this programme. You will find further information below and on the Points of Contact document. ",
     "url": "http://localhost:4000/course_docs/support.html",
     "relUrl": "/course_docs/support.html"
-  },"77": {
+  },"31": {
     "doc": "Student Support",
     "title": "Support from your University",
     "content": "Year 1 . All our first year students will be registered with a member of our University Leads Board at your home university. You should have been informed of who this is either by your home university or by us. They will act as your Graduate Tutor/Supervisor in Year 1 of the programme and provide support during the first year of the programme. Please note that this is not the same as your PhD Research Supervisor(s) who will not be chosen until the end of Year 1. Your home university may also allocate other academic staff to support you during your PhD studies. Your home university should provide you with information detailing their institutional student welfare support provisions during your induction or at some point during your first year of study. If you do not feel you have been advised of this information then please contact your home university graduate tutor in the first instance. Years 2-4 . After you have chosen your main PhD research topic and supervisory team at the end of Year 1, your academic support will normally transfer from your Year 1 graduate tutor to the lead research supervisor and any additional members of the supervisory team as appropriate. They will often be your first destination for further support but where applicable you may wish to use other home university resources and services. Please consult your home university student services for details. ",
     "url": "http://localhost:4000/course_docs/support.html#support-from-your-university",
     "relUrl": "/course_docs/support.html#support-from-your-university"
-  },"78": {
+  },"32": {
     "doc": "Student Support",
     "title": "Support from us",
-    "content": "Our students will also have support external to their university via the programme. This could be provided by members of the Programme Operations Team or members of the University Leads not at your University. Please refer to the Points of Contact document if you are unsure who is the contact point for the type of support you require. The Directors . The Directors will host a weekly series of zoom meetings with the students collectively, at which you can raise and discuss any general issues relating to the programme. You should also advise the Programme Directors if you are experiencing any difficulties with your studies, either because of challenges presented by your working environment or in your personal life. We will provide support to help you overcome any challenges where your home university cannot provide this. Programme Administration . The Programme Administration team should be advised if you are experiencing any difficulties with your studies because of administrative problems. Examples might include financial issues with payments of fees or stipends, visa issues for international students, official student documentation, etc. If you are sick or unable to attend planned training activities, the Administration team should be informed in the first instance. University Leads . Our University LEads consists of highly experienced academics with a wide range of experience across a number of disciplines. Our students are welcome to draw upon these experiences where they require subject- or discipline-specific advice in relation to their research studies or professional development. Issues which are personal in nature or not research-specific should first be directed to the Programme Directors. All information will be treated strictly confidentiality unless you tell us otherwise . ",
+    "content": "Our students will also have support external to their university via the programme. This could be provided by members of the Programme Operations Team or members of the University Leads not at your University. Please refer to the Points of Contact document if you are unsure who is the contact point for the type of support you require. The Directors . The Directors will host a weekly series of zoom meetings with the students collectively, at which you can raise and discuss any general issues relating to the programme. You should also advise the Programme Directors if you are experiencing any difficulties with your studies, either because of challenges presented by your working environment or in your personal life. We will provide support to help you overcome any challenges where your home university cannot provide this. Programme Administration . The Programme Administration team should be advised if you are experiencing any difficulties with your studies because of administrative problems. Examples might include financial issues with payments of fees or stipends, visa issues for international students, official student documentation, etc. If you are sick or unable to attend planned training activities, the Administration team should be informed in the first instance. University Leads . Our University Leads consists of highly experienced academics with a wide range of experience across a number of disciplines. Our students are welcome to draw upon these experiences where they require subject- or discipline-specific advice in relation to their research studies or professional development. Issues which are personal in nature or not research-specific should first be directed to the Programme Directors. All information will be treated strictly confidentiality unless you tell us otherwise . ",
     "url": "http://localhost:4000/course_docs/support.html#support-from-us",
     "relUrl": "/course_docs/support.html#support-from-us"
-  },"79": {
-    "doc": "Training Record",
-    "title": "Year 1 Training and Personal Development",
-    "content": "During Year 1 of the Programme, you will maintain an evidence-based training record. This is to help you document your personal development in terms of the skills, knowledge and competencies relevant to health data science. This training record will be examined at the end of year progression interview so you are advised to keep it up-to-date and make logging your training a routine part of your work. You can use any appropriate medium you wish for recording this information (e.g. a Word document) but we hope that you will consider other approaches (e.g. a blog, website, instagram stories) as well. The example you set will likely influence future cohorts! . ",
-    "url": "http://localhost:4000/course_docs/programme/trainingrecord.html#year-1-training-and-personal-development",
-    "relUrl": "/course_docs/programme/trainingrecord.html#year-1-training-and-personal-development"
-  },"80": {
-    "doc": "Training Record",
-    "title": "How to build a Health Data Scientist",
-    "content": "You will first as a cohort come together to build a “Common Core” syllabus. ",
-    "url": "http://localhost:4000/course_docs/programme/trainingrecord.html#how-to-build-a-health-data-scientist",
-    "relUrl": "/course_docs/programme/trainingrecord.html#how-to-build-a-health-data-scientist"
-  },"81": {
-    "doc": "Training Record",
-    "title": "Training Record",
-    "content": "During Year 1, we want you to reflect and record your thoughts about the training you have received. We do not wish to be prescriptive about what the form of the training record takes, but the following example shows the type of information you might wish to record. Example Training Record . | Common Core Area | Skill/Competency | Training | Date | . | Computing | Programming | I have learnt how to use PyTorch following the Machine Learning course and applied it to a small data set. | 01/11/20 | . | Computing | Software Development and Version Control | I was introduced to the use of Github as part of the Turing course and have been routinely using it to store my code updates for the covid-19 project. | 15 October 2020 | . | Probability &amp; Statistics | Bayesian Statistics | I have studied Bayesian Statistics as part of my pre-reading for the ML course. I will now attempt to incorporate it as part of my covid-19 project work. | 30 October 2020 | . | Probability &amp; Statistics | Likelihood-based inference | Peter Diggle gave a lecture on likelihood-based inference. I read about likelihood-based inference for GLMs to understand how to perform ordinal regression for the risk prediction workshop. | 7 October 2020 | . | Ethics | GDPR | Attended training seminar on GDPR at home university. | 17 December 2020 | . ",
-    "url": "http://localhost:4000/course_docs/programme/trainingrecord.html",
-    "relUrl": "/course_docs/programme/trainingrecord.html"
-  },"82": {
+  },"33": {
     "doc": "Year 1",
     "title": "Year 1",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/year1.html",
     "relUrl": "/course_docs/programme/year1.html"
-  },"83": {
+  },"34": {
     "doc": "Year 1",
     "title": "Table of contents",
-    "content": ". | Objectives | Induction | University-based activities | Workshops | Immersions | Research Project Proposal Assessment . | PPIE Training | Assessment Viva | . | Away Week | . ",
+    "content": ". | Objectives | Induction | University-based activities | Workshops | Immersions | Research Project Proposal . | PPIE Training | Proposal Review Panel | . | Away Week | Approximate Timetable | . ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#table-of-contents",
     "relUrl": "/course_docs/programme/year1.html#table-of-contents"
-  },"84": {
+  },"35": {
     "doc": "Year 1",
     "title": "Objectives",
-    "content": "The overall objective of Year 1 of the PhD Programme is to develop a three-year PhD research (“thesis”) project proposal that you will carry out in Years 2-4. Identifying a research project that you will dedicate three years of your life towards can be challenging. You will be supported by your university and HDRUK in these efforts through a number of activities in the first year to help you with this. Continuation of your funding support from HDRUK beyond Year 1 is dependent only on successfully developing a credible thesis project. There is no coursework or exams. ",
+    "content": "The overall objective of Year 1 of the PhD Programme is to develop a three-year PhD research (“thesis”) project proposal that you will carry out in Years 2-4. Identifying a research project that you will dedicate three years of your life towards can be challenging. You will be supported by your university and HDRUK in these efforts through a number of activities in the first year to help you with this. See more information on choosing your PhD. Continuation of your funding support from HDRUK beyond Year 1 is dependent only on successfully developing a credible thesis project. There is no coursework or exams. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#objectives",
     "relUrl": "/course_docs/programme/year1.html#objectives"
-  },"85": {
+  },"36": {
     "doc": "Year 1",
     "title": "Induction",
-    "content": "The two-day induction meeting at the start of your studies is an opportunity for all HDRUK staff and students to meet each other for the first time. It will cover a range of scientific and administrative matters, including overviews of HDRUK’s priority research themes and data-resources, and how to make the most of students’ opportunities to connect with like-minded students, across the programme and on other programmes within their home unversities. We will also begin to start cohort development activities to ensure you keep networked as a group throughout your studies. ",
+    "content": "The two-day induction meeting at the start of your studies is an opportunity for all HDRUK staff and students to meet each other for the first time. It will cover a range of scientific and administrative matters, including overviews of HDRUK’s priority research themes and data-resources, and how to make the most of students’ opportunities to connect with like-minded students, across the programme and on other programmes within their home unversities. We will also begin to start cohort development activities to ensure you keep networked as a group throughout your studies. Post-induction checklist: . | You should be provided with an HDRUK e-mail address, | You should get access to the HDRUK PhD Slack channel, | You should be given permission to access the HDRUK Box file service. | Information about the HDRUK Expenses system. | . Contact the Programme Team (phd@hdruk.ac.uk) if you do not receive any of this information. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#induction",
     "relUrl": "/course_docs/programme/year1.html#induction"
-  },"86": {
+  },"37": {
     "doc": "Year 1",
     "title": "University-based activities",
     "content": "At the start of Year 1, you will work with your HDRUK University Lead to develop a bespoke programme of activities that will support your ability to choose a thesis project. Each university will have different facilities and resources at its disposal to support this so we are not prescriptive but the following examples provides guidance on what might be suitable: . | Two rotation projects, spanning 8-12 weeks, one in Autumn and one in Spring based within different research groups within your university, . | Graduate-level courses, for example offered as part of a Centre for Doctoral Training, given insights into different research areas, . | Participation in externally-led short projects via the HDRUK community or other partners. | . You may also want to propose your own training regime and we will be happy to support this in discussion with your University Lead and the HDRUK Programme Director. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#university-based-activities",
     "relUrl": "/course_docs/programme/year1.html#university-based-activities"
-  },"87": {
+  },"38": {
     "doc": "Year 1",
     "title": "Workshops",
     "content": "HDRUK will host a series of short workshops throughout the year to give insight into different areas of scientific research carried out by members of our community across all four nations of the UK as well as external partners organisations (e.g. NHS Digital). These could be lunch-time seminars to full or half-day residential events. The aim is to give you insight into assets which are available nationally within or linked to HDRUK that you could access as part of your PhD research. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#workshops",
     "relUrl": "/course_docs/programme/year1.html#workshops"
-  },"88": {
+  },"39": {
     "doc": "Year 1",
     "title": "Immersions",
     "content": "Immersion Weeks are extended residential training events lasting 3-4 days. There are normally at least three such events in Year 1. Topics vary from year to year and determine by the immersion event lead but, for example, past immersions have included: . | “Clinical Prediction Models” by the Centre for Health Informatics at the University Manchester, | “Public Health Data Science” from Statistical Science and Institute of Health Informatics at UCL, | “Bioinformatics” by the European Bioinformatics Institute. | . Cohort building events may also be held alongside immersion weeks. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#immersions",
     "relUrl": "/course_docs/programme/year1.html#immersions"
-  },"89": {
+  },"40": {
     "doc": "Year 1",
-    "title": "Research Project Proposal Assessment",
-    "content": "PPIE Training . An important part of your research proposal will be the lay abstract and the addition of appropriate public-patient co-design and engagement activities. We will leverage the extensive experience of HDRUK to support your training in this area through our PPIE team and our Public Advisory Board to ensure your proposals are written and presented suitably for wider audiencs. Assessment Viva . Your thesis project proposals will be assessed by both the Programme Director and a multi-institutional panel of University Leads or External Experts. The aim of the viva is to provide feedback on your project so that you may improve your research plans (where necessary) before the proposal is submitted to Wellcome. You may submit your proposal for review in either June or August of your first year. The first deadline allows time for substantial revisions should the project be assessed have deficiencies or permit PhD studies to begin by the summer. The second deadline allows students flexibility to spend longer on first year activities to support project development but does not leave substantial time for revisions should proposals be unsuitable. HDRUK approved Research Proposals must be submitted by the 30 September to Wellcome at the end of your first year. Failure to do so may jeopardise continuation of funding support. ",
-    "url": "http://localhost:4000/course_docs/programme/year1.html#research-project-proposal-assessment",
-    "relUrl": "/course_docs/programme/year1.html#research-project-proposal-assessment"
-  },"90": {
+    "title": "Research Project Proposal",
+    "content": "You will need to produce a formal written research proposal by the end of Year 1 giving details of your research plans in Years 2-4 and the supervision team that will support the project and you. See more information on developing your research proposal. PPIE Training . An important part of your research proposal will be the lay abstract and the addition of appropriate public-patient co-design and engagement activities. We will leverage the extensive experience of HDRUK to support your training in this area through our PPIE team and our Public Advisory Board to ensure your proposals are written and presented suitably for wider audiencs. Proposal Review Panel . Your thesis project proposals will be assessed by both the Programme Director and a multi-institutional panel of University Leads or External Experts. The aim of the viva is to provide feedback on your project so that you may improve your research plans (where necessary) before the proposal is submitted to Wellcome. You may submit your proposal for review in either June or August of your first year. The first deadline allows time for substantial revisions should the project be assessed have deficiencies or permit PhD studies to begin by the summer. The second deadline allows students flexibility to spend longer on first year activities to support project development but does not leave substantial time for revisions should proposals be unsuitable. HDRUK approved Research Proposals must be submitted by the 30 September to Wellcome at the end of your first year. Failure to do so may jeopardise continuation of funding support. ",
+    "url": "http://localhost:4000/course_docs/programme/year1.html#research-project-proposal",
+    "relUrl": "/course_docs/programme/year1.html#research-project-proposal"
+  },"41": {
     "doc": "Year 1",
     "title": "Away Week",
-    "content": "We will hold an annual retreat each summer to support cohort development. These might include a team building exercise at an outdoor education centre or an international visit to a scientific centre. Approximate Timelines . | Date | Event | . | October | Induction Event | . | October-December | Workshop Series 1 | . | November | Immersion Week 1 | . | January | Immersion Week 2 | . | March | Immersion Week 3 | . | January-April | Workshop Series 2 | . | April | PPIE Workshop | . | May-August | Thesis Project Development | . | June | Research Project Assessment Deadline 1 | . | July | Away Week | . | August | Research Project Assessment Deadline 2 | . | September | Research Project Submission / Begin Thesis Project | . ",
+    "content": "We will hold an annual retreat each summer to support cohort development. These might include a team building exercise at an outdoor education centre or an international visit to a scientific centre. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#away-week",
     "relUrl": "/course_docs/programme/year1.html#away-week"
-  },"91": {
+  },"42": {
+    "doc": "Year 1",
+    "title": "Approximate Timetable",
+    "content": "| Date | Event | . | October | Induction Event | . | October-December | Workshop Series 1 | . | November | Immersion Week 1 | . | January | Immersion Week 2 | . | March | Immersion Week 3 | . | January-April | Workshop Series 2 | . | April | PPIE Workshop | . | May-August | Thesis Project Development | . | June | Research Project Assessment Deadline 1 | . | July | Away Week | . | August | Research Project Assessment Deadline 2 | . | September | Research Project Submission / Begin Thesis Project | . ",
+    "url": "http://localhost:4000/course_docs/programme/year1.html#approximate-timetable",
+    "relUrl": "/course_docs/programme/year1.html#approximate-timetable"
+  },"43": {
     "doc": "Year 2-4",
     "title": "Year 2-4 Training Programme",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#year-2-4-training-programme",
     "relUrl": "/course_docs/programme/year24.html#year-2-4-training-programme"
-  },"92": {
+  },"44": {
     "doc": "Year 2-4",
     "title": "Table of contents",
-    "content": ". At the start of Year 2, you will begin your three-year doctoral research work based at your home university. Your research activities will be bespoke to your chosen research topic and approach. Our programme will continue to support you through this period with further training opportunities including our Leadership Training course. ",
+    "content": ". | Objectives | Supervision | Progression | Reporting Requirements | Changes in research plan | Training | Support | Transitions | . ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#table-of-contents",
     "relUrl": "/course_docs/programme/year24.html#table-of-contents"
-  },"93": {
+  },"45": {
+    "doc": "Year 2-4",
+    "title": "Objectives",
+    "content": "In Years 2-4, you will carry out the approved research proposal you developed at the end of Year 1. ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#objectives",
+    "relUrl": "/course_docs/programme/year24.html#objectives"
+  },"46": {
+    "doc": "Year 2-4",
+    "title": "Supervision",
+    "content": "Your day-to-day supervision will be managed by the Lead Academic Supervisor of your research project who will be based at your university. Supervisory conduct and arrangements will be in accordance with your university’s own rules. ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#supervision",
+    "relUrl": "/course_docs/programme/year24.html#supervision"
+  },"47": {
+    "doc": "Year 2-4",
+    "title": "Progression",
+    "content": "You will need to meet your university’s normal progression requirements as part of your PhD. Your Graduate Studies Office should inform you of these requirements. ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#progression",
+    "relUrl": "/course_docs/programme/year24.html#progression"
+  },"48": {
+    "doc": "Year 2-4",
+    "title": "Reporting Requirements",
+    "content": "It is intended that reporting to HDRUK will be light and leverage information that will be generated as part of your normal university progression monitoring. At the end of each academic year, you and your Lead Academic Supervisor will provide a written report using the HDRUK reporting template on your progress and identify objectives for the following year where relevant. In Year 2, there will be an additional interim report by month 6 describing your progress at the start of your research. In addition, at the start of Year 4, you with your Lead Academic Supervisor will provide a thesis write-up plan. ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#reporting-requirements",
+    "relUrl": "/course_docs/programme/year24.html#reporting-requirements"
+  },"49": {
+    "doc": "Year 2-4",
+    "title": "Changes in research plan",
+    "content": "Research plans can change and evolve over time and HDRUK are happy to support alterations in your research agenda where this is driven by genuine scientific or personal need. You and your supervision team should inform HDRUK of any significant alterations to your research proposal so that the Programme Director can approve such changes and ensure that the research modifications remain consistent with the Programme’s health data science remit. ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#changes-in-research-plan",
+    "relUrl": "/course_docs/programme/year24.html#changes-in-research-plan"
+  },"50": {
+    "doc": "Year 2-4",
+    "title": "Training",
+    "content": "HDRUK will run a Leadership Programme course during Years 2-4. This programme is intended to develop your skills in communication, networking, influencing and management. Vital capabilities that are crucial to developing you not only as technical experts in your areas of research but to be future leaders in your sectors. This programme is led by academic, clinical and industry experts. HDRUK will also support you with additional ad hoc training workshops and activities throughout the rest of your PhD. ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#training",
+    "relUrl": "/course_docs/programme/year24.html#training"
+  },"51": {
+    "doc": "Year 2-4",
+    "title": "Support",
+    "content": "HDRUK Programme Directors will meet with you individually at least once per year to discuss your progress and to identify opportunities where the power of the national institute can be leveraged to enhance your research. We encourage all students to meet with their University Lead annually as well. ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#support",
+    "relUrl": "/course_docs/programme/year24.html#support"
+  },"52": {
+    "doc": "Year 2-4",
+    "title": "Transitions",
+    "content": "Wellcome and HDRUK-funded studentships provide a transition fund to support you at the end of your PhD to move into the next phase of your career. This is a non-trivial research support award that could enable you to set up activities such as an internship or short postdoctoral research position to explore post-PhD career options. More details will be provided at the end of Year 3. ",
+    "url": "http://localhost:4000/course_docs/programme/year24.html#transitions",
+    "relUrl": "/course_docs/programme/year24.html#transitions"
+  },"53": {
     "doc": "Year 2-4",
     "title": "Year 2-4",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/year24.html",
     "relUrl": "/course_docs/programme/year24.html"
-  },"94": {
+  },"54": {
     "doc": "Student Handbook",
     "title": "Student Handbook",
-    "content": "# Student Handbook *This is a student handbook for the HDRUK-Turing PhD Programme in Health Data Science. Information contained within here is only appropriate to students registered on the course.* ## Contents [**Introduction**](/course_docs/introduction.html) A word from the Directors about the programme, its mission and our expectations of our students. [**Programme Details**](/course_docs/programme/programme.html) Detailed information about the programme and its training elements. [**Staff**](/course_docs/staff.html) Information about the people who run the programme. [**Choosing your PhD**](/course_docs/phd-choice.html) Details about the PhD project selection process. [**Progression**](/course_docs/progression.html) Requirements that you will need to maintain during your PhD. [**Resources**](/course_docs/resources.html) Details about the resources available to you for your research and training. [**Administrative Matters**](/course_docs/admin.html) Information about the administrative support available to you. [**Student Support**](/course_docs/support.html) Details about how we will try to support you during your studies. ",
+    "content": "# Student Handbook *This is a student handbook for the HDRUK-Turing PhD Programme in Health Data Science. Information contained within here is only appropriate to students registered on the course.* ## Contents [**Introduction**](/course_docs/introduction.html) A word from the Directors about the programme, its mission and our expectations of our students. [**Programme Details**](/course_docs/programme/programme.html) Detailed information about the programme and its training elements. [**Staff**](/course_docs/staff.html) Information about the people who run the programme. [**Administrative Matters**](/course_docs/admin.html) Information about the administrative support available to you. [**Student Support**](/course_docs/support.html) Details about how we will try to support you during your studies. ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
   }

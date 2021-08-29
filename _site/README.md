@@ -14,15 +14,6 @@ Detailed information about the programme and its training elements.
 [**Staff**](course_docs/staff.md)  
 Information about the people who run the programme.
 
-[**Choosing your PhD**](course_docs/phd-choice.md)  
-Details about the PhD project selection process.
-
-[**Progression**](course_docs/progression.md)  
-Requirements that you will need to maintain during your PhD.
-
-[**Resources**](course_docs/resources.md)  
-Details about the resources available to you for your research and training.
-
 [**Administrative Matters**](course_docs/admin.md)  
 Information about the administrative support available to you.
 

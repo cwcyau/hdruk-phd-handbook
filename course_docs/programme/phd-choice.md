@@ -1,19 +1,20 @@
 ---
 layout: default
 title: Choosing your PhD
-nav_order: 5
-has_children: true
+nav_order: 2
+parent: Year 1
+grand_parent: Programme Details
 ---
 
 # Choosing your PhD
 
-During Year 1, you will identify a PhD project to carry out in Years 2-4. You will need to complete a 1-2 page research proposal with your supervision team detailing the information given below. The proposal will be reviewed by the Programme Directors as part of your Year 1 Progression requirements. The Programme Directors reserve the right to ask you to modify or change your proposal if the intended research does not match the aims of this PhD programme.
+During Year 1, you will identify a PhD project to carry out in Years 2-4. You will need to complete a research proposal form with your supervision team detailing the information given below. The proposal will be reviewed by the Programme Directors as part of your Year 1 Progression requirements. The Programme Directors reserve the right to ask you to modify or change your proposal if the intended research does not match the aims of this PhD programme.
 
 ## The Supervision team 
 
-This *must* include a primary supervisor who is based at your home university and co-supervisors who may be based at another university. We strongly encourage novel cross-university collaborations between HDRUK and Turing-affiliated universities. We also very much welcome supervision teams involving early-career academics who may have greater capacity to work with you on a day-to-day basis than very senior academics. Please also advise of any non-academic support you may receive (e.g. a company), what their involvement would be and what contractual arrangements are in place to govern these relationships.
+This *must* include a primary Academic Lead Supervisor who is based at your home university and co-supervisors who may be based at another university. We strongly encourage novel cross-university collaborations between HDRUK and Turing-affiliated universities. We also very much welcome supervision teams involving early-career academics who may have greater capacity to work with you on a day-to-day basis than very senior academics. Please also advise of any non-academic support you may receive (e.g. a company), what their involvement would be and what contractual arrangements are in place to govern these relationships.
 
-Note that a **primary supervisor** is someone who takes *overall* responsibility for your PhD progression on behalf of your home university. They do not necessarily need to be responsible for setting the research challenge or working with you on a regular basis.
+Note that the **primary Academic Lead Supervisor** is someone who takes *overall* responsibility for your PhD progression on behalf of your home university. They may not necessarily be setting the research challenges or working with you on a daily basis. This support may come from the wider supervision team.
 
 ## The Research Challenge
 
@@ -28,6 +29,10 @@ It is unlikely that we would approve projects, for example, primarily involving:
 - Pure theoretical or methodology research with no evidence of a route to a relevant health application.  
 
 Your overall research plan may, however include limited experience of, or training in, such areas for the purposes of gaining insight and broadening your understanding of different research methodologies.
+
+## Public and Patient Participation
+
+Both Wellcome and Health Data Research UK strongly support the inclusion of public and patient participants in research. This may involve direct co-design of research in some instances, where relevant, or in other cases, simply ensuring research is written and/or explained in an accessible way. Your research proposals will include lay summaries that need to be written to a standard that will withstand the scrutiny of our Patient and Public Advisors.
 
 ## Publication Plan
 
