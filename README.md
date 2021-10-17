@@ -19,3 +19,6 @@ Information about the administrative support available to you.
 
 [**Student Support**](course_docs/support.md)  
 Details about how we will try to support you during your studies.
+
+[**Programme Timetable**](course_docs/timetable.md)  
+Details of all programmed events in the current academic year.
