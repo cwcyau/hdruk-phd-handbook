@@ -210,155 +210,161 @@
     "relUrl": "/course_docs/timetable.html#lunchtime-seminar-series"
   },"35": {
     "doc": "Timetable",
+    "title": "Workshops",
+    "content": "| Date | Time | Organiser | Event | . | 7 January 2022 | 11:00-12:30 | HDR UK | Choosing your PhD projects | . | March 2022 (tbc) | tbc | HDR UK | How to write a research proposal? | . | March 2022 (tbc) | tbc | HDR UK | How to avoid jargon? Writing a good lay summary | . ",
+    "url": "http://localhost:4000/course_docs/timetable.html#workshops",
+    "relUrl": "/course_docs/timetable.html#workshops"
+  },"36": {
+    "doc": "Timetable",
     "title": "Immersion Weeks",
     "content": "| Dates | Event | Organiser | Notes | . | 15-19 November 2021 | University of Oxford | Tom Nichols | Introduction to Epidemiology | . | 1-3 December 2021 | University of Manchester | Niels Peek | Introduction to Clinical Prediction Models | . | tbc (postponed due to covid) | University of Leeds | Peter Tennant | Turing Causal Inference School | . | 1st week of March (tbc) | AstraZeneca | Christopher Yau |   | . | 25-29 April 2022 (tbc) | NHS Digital | Christopher Yau |   | . ",
     "url": "http://localhost:4000/course_docs/timetable.html#immersion-weeks",
     "relUrl": "/course_docs/timetable.html#immersion-weeks"
-  },"36": {
+  },"37": {
     "doc": "Timetable",
     "title": "Expenses",
     "content": "Unless otherwise specified accommodation for all residential training events will be booked in advanced by HDR UK for all students who do not normally reside in the town or city where the event is being hosted, i.e. Manchester students would not be booked accommodation for an Immersion Week in Manchester. Travel to and from your normal place of residence for residential training events can be claimed via your university or HDR UK. All travel associated with your training event can also be reclaimed. A maximum of £35 can be claimed for a full day of subsistence (breakfast, lunch and dinner). ",
     "url": "http://localhost:4000/course_docs/timetable.html#expenses",
     "relUrl": "/course_docs/timetable.html#expenses"
-  },"37": {
+  },"38": {
     "doc": "Timetable",
     "title": "PhD Proposals",
     "content": "| Date | Event | Description | . | January 2022 | Proposal development workshop | Workshop on project proposal development. How to identify supervisors and choose projects. | . | March 2022 | PPIE workshop | Workshop on communicating your science to the public. | . | 30 June 2022 | Initial Submission | Submission of first proposal (all students except Oxford) | . | 11-15 July 2022 | First Review | Each student will attend an academic review panel | . | 14 August 2022 | Revision Submission | If required, proposal revision to be submitted. First review deadline for Oxford students. | . | 1-2 September 2022 | Final Review | Second academic review of revised proposals following any corrections. This will be the only review for Oxford students. | . | 12-13 September 2022 | Public Review | Students to present proposals to a Public-Patient review panel. | . | 26 September 2022 | Final Submission | Final deadline for PhD proposal submission and supervisor confirmation (including on WT Grants system if required). | . | 30 September 2022 | HDRUK Sign-off | Submission of projects to Wellcome. | . Notes . | Oxford-based students can also use the “Initial submission” deadline and follow the same timeline as other students. | FAILURE to meet the 30 September 2022 deadline without good reason can lead to the termination of your studentship. | . ",
     "url": "http://localhost:4000/course_docs/timetable.html#phd-proposals",
     "relUrl": "/course_docs/timetable.html#phd-proposals"
-  },"38": {
+  },"39": {
     "doc": "Timetable",
     "title": "Timetable",
     "content": " ",
     "url": "http://localhost:4000/course_docs/timetable.html",
     "relUrl": "/course_docs/timetable.html"
-  },"39": {
+  },"40": {
     "doc": "Year 1",
     "title": "Year 1",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/year1.html",
     "relUrl": "/course_docs/programme/year1.html"
-  },"40": {
+  },"41": {
     "doc": "Year 1",
     "title": "Table of contents",
     "content": ". | Objectives | Induction | University-based activities | Workshops | Immersions | Research Project Proposal . | PPIE Training | Proposal Review Panel | . | Away Week | Approximate Timetable | . ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#table-of-contents",
     "relUrl": "/course_docs/programme/year1.html#table-of-contents"
-  },"41": {
+  },"42": {
     "doc": "Year 1",
     "title": "Objectives",
     "content": "The overall objective of Year 1 of the PhD Programme is to develop a three-year PhD research (“thesis”) project proposal that you will carry out in Years 2-4. Identifying a research project that you will dedicate three years of your life towards can be challenging. You will be supported by your university and HDRUK in these efforts through a number of activities in the first year to help you with this. See more information on choosing your PhD. Continuation of your funding support from HDRUK beyond Year 1 is dependent only on successfully developing a credible thesis project. There is no coursework or exams. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#objectives",
     "relUrl": "/course_docs/programme/year1.html#objectives"
-  },"42": {
+  },"43": {
     "doc": "Year 1",
     "title": "Induction",
     "content": "The two-day induction meeting at the start of your studies is an opportunity for all HDRUK staff and students to meet each other for the first time. It will cover a range of scientific and administrative matters, including overviews of HDRUK’s priority research themes and data-resources, and how to make the most of students’ opportunities to connect with like-minded students, across the programme and on other programmes within their home unversities. We will also begin to start cohort development activities to ensure you keep networked as a group throughout your studies. Post-induction checklist: . | You should be provided with an HDRUK e-mail address, | You should get access to the HDRUK PhD Slack channel, | You should be given permission to access the HDRUK Box file service. | Information about the HDRUK Expenses system. | . Contact the Programme Team (phd@hdruk.ac.uk) if you do not receive any of this information. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#induction",
     "relUrl": "/course_docs/programme/year1.html#induction"
-  },"43": {
+  },"44": {
     "doc": "Year 1",
     "title": "University-based activities",
     "content": "At the start of Year 1, you will work with your HDRUK University Lead to develop a bespoke programme of activities that will support your ability to choose a thesis project. Each university will have different facilities and resources at its disposal to support this so we are not prescriptive but the following examples provides guidance on what might be suitable: . | Two rotation projects, spanning 8-12 weeks, one in Autumn and one in Spring based within different research groups within your university, . | Graduate-level courses, for example offered as part of a Centre for Doctoral Training, given insights into different research areas, . | Participation in externally-led short projects via the HDRUK community or other partners. | . You may also want to propose your own training regime and we will be happy to support this in discussion with your University Lead and the HDRUK Programme Director. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#university-based-activities",
     "relUrl": "/course_docs/programme/year1.html#university-based-activities"
-  },"44": {
+  },"45": {
     "doc": "Year 1",
     "title": "Workshops",
     "content": "HDRUK will host a series of short workshops throughout the year to give insight into different areas of scientific research carried out by members of our community across all four nations of the UK as well as external partners organisations (e.g. NHS Digital). These could be lunch-time seminars to full or half-day residential events. The aim is to give you insight into assets which are available nationally within or linked to HDRUK that you could access as part of your PhD research. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#workshops",
     "relUrl": "/course_docs/programme/year1.html#workshops"
-  },"45": {
+  },"46": {
     "doc": "Year 1",
     "title": "Immersions",
     "content": "Immersion Weeks are extended residential training events lasting 3-4 days. There are normally at least three such events in Year 1. Topics vary from year to year and determine by the immersion event lead but, for example, past immersions have included: . | “Clinical Prediction Models” by the Centre for Health Informatics at the University Manchester, | “Public Health Data Science” from Statistical Science and Institute of Health Informatics at UCL, | “Bioinformatics” by the European Bioinformatics Institute. | . Cohort building events may also be held alongside immersion weeks. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#immersions",
     "relUrl": "/course_docs/programme/year1.html#immersions"
-  },"46": {
+  },"47": {
     "doc": "Year 1",
     "title": "Research Project Proposal",
     "content": "You will need to produce a formal written research proposal by the end of Year 1 giving details of your research plans in Years 2-4 and the supervision team that will support the project and you. See more information on developing your research proposal. PPIE Training . An important part of your research proposal will be the lay abstract and the addition of appropriate public-patient co-design and engagement activities. We will leverage the extensive experience of HDRUK to support your training in this area through our PPIE team and our Public Advisory Board to ensure your proposals are written and presented suitably for wider audiencs. Proposal Review Panel . Your thesis project proposals will be assessed by both the Programme Director and a multi-institutional panel of University Leads or External Experts. The aim of the viva is to provide feedback on your project so that you may improve your research plans (where necessary) before the proposal is submitted to Wellcome. You may submit your proposal for review in either June or August of your first year. The first deadline allows time for substantial revisions should the project be assessed have deficiencies or permit PhD studies to begin by the summer. The second deadline allows students flexibility to spend longer on first year activities to support project development but does not leave substantial time for revisions should proposals be unsuitable. HDRUK approved Research Proposals must be submitted by the 30 September to Wellcome at the end of your first year. Failure to do so may jeopardise continuation of funding support. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#research-project-proposal",
     "relUrl": "/course_docs/programme/year1.html#research-project-proposal"
-  },"47": {
+  },"48": {
     "doc": "Year 1",
     "title": "Away Week",
     "content": "We will hold an annual retreat each summer to support cohort development. These might include a team building exercise at an outdoor education centre or an international visit to a scientific centre. ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#away-week",
     "relUrl": "/course_docs/programme/year1.html#away-week"
-  },"48": {
+  },"49": {
     "doc": "Year 1",
     "title": "Approximate Timetable",
     "content": "| Date | Event | . | October | Induction Event | . | October-December | Workshop Series 1 | . | November | Immersion Week 1 | . | January | Immersion Week 2 | . | March | Immersion Week 3 | . | January-April | Workshop Series 2 | . | April | PPIE Workshop | . | May-August | Thesis Project Development | . | June | Research Project Assessment Deadline 1 | . | July | Away Week | . | August | Research Project Assessment Deadline 2 | . | September | Research Project Submission / Begin Thesis Project | . ",
     "url": "http://localhost:4000/course_docs/programme/year1.html#approximate-timetable",
     "relUrl": "/course_docs/programme/year1.html#approximate-timetable"
-  },"49": {
+  },"50": {
     "doc": "Year 2-4",
     "title": "Year 2-4 Training Programme",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#year-2-4-training-programme",
     "relUrl": "/course_docs/programme/year24.html#year-2-4-training-programme"
-  },"50": {
+  },"51": {
     "doc": "Year 2-4",
     "title": "Table of contents",
     "content": ". | Objectives | Supervision | Progression | Reporting Requirements | Changes in research plan | Training | Support | Transitions | . ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#table-of-contents",
     "relUrl": "/course_docs/programme/year24.html#table-of-contents"
-  },"51": {
+  },"52": {
     "doc": "Year 2-4",
     "title": "Objectives",
     "content": "In Years 2-4, you will carry out the approved research proposal you developed at the end of Year 1. ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#objectives",
     "relUrl": "/course_docs/programme/year24.html#objectives"
-  },"52": {
+  },"53": {
     "doc": "Year 2-4",
     "title": "Supervision",
     "content": "Your day-to-day supervision will be managed by the Lead Academic Supervisor of your research project who will be based at your university. Supervisory conduct and arrangements will be in accordance with your university’s own rules. ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#supervision",
     "relUrl": "/course_docs/programme/year24.html#supervision"
-  },"53": {
+  },"54": {
     "doc": "Year 2-4",
     "title": "Progression",
     "content": "You will need to meet your university’s normal progression requirements as part of your PhD. Your Graduate Studies Office should inform you of these requirements. ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#progression",
     "relUrl": "/course_docs/programme/year24.html#progression"
-  },"54": {
+  },"55": {
     "doc": "Year 2-4",
     "title": "Reporting Requirements",
     "content": "It is intended that reporting to HDRUK will be light and leverage information that will be generated as part of your normal university progression monitoring. At the end of each academic year, you and your Lead Academic Supervisor will provide a written report using the HDRUK reporting template on your progress and identify objectives for the following year where relevant. In Year 2, there will be an additional interim report by month 6 describing your progress at the start of your research. In addition, at the start of Year 4, you with your Lead Academic Supervisor will provide a thesis write-up plan. ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#reporting-requirements",
     "relUrl": "/course_docs/programme/year24.html#reporting-requirements"
-  },"55": {
+  },"56": {
     "doc": "Year 2-4",
     "title": "Changes in research plan",
     "content": "Research plans can change and evolve over time and HDRUK are happy to support alterations in your research agenda where this is driven by genuine scientific or personal need. You and your supervision team should inform HDRUK of any significant alterations to your research proposal so that the Programme Director can approve such changes and ensure that the research modifications remain consistent with the Programme’s health data science remit. ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#changes-in-research-plan",
     "relUrl": "/course_docs/programme/year24.html#changes-in-research-plan"
-  },"56": {
+  },"57": {
     "doc": "Year 2-4",
     "title": "Training",
     "content": "HDRUK will run a Leadership Programme course during Years 2-4. This programme is intended to develop your skills in communication, networking, influencing and management. Vital capabilities that are crucial to developing you not only as technical experts in your areas of research but to be future leaders in your sectors. This programme is led by academic, clinical and industry experts. HDRUK will also support you with additional ad hoc training workshops and activities throughout the rest of your PhD. ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#training",
     "relUrl": "/course_docs/programme/year24.html#training"
-  },"57": {
+  },"58": {
     "doc": "Year 2-4",
     "title": "Support",
     "content": "HDRUK Programme Directors will meet with you individually at least once per year to discuss your progress and to identify opportunities where the power of the national institute can be leveraged to enhance your research. We encourage all students to meet with their University Lead annually as well. ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#support",
     "relUrl": "/course_docs/programme/year24.html#support"
-  },"58": {
+  },"59": {
     "doc": "Year 2-4",
     "title": "Transitions",
     "content": "Wellcome and HDRUK-funded studentships provide a transition fund to support you at the end of your PhD to move into the next phase of your career. This is a non-trivial research support award that could enable you to set up activities such as an internship or short postdoctoral research position to explore post-PhD career options. More details will be provided at the end of Year 3. ",
     "url": "http://localhost:4000/course_docs/programme/year24.html#transitions",
     "relUrl": "/course_docs/programme/year24.html#transitions"
-  },"59": {
+  },"60": {
     "doc": "Year 2-4",
     "title": "Year 2-4",
     "content": " ",
     "url": "http://localhost:4000/course_docs/programme/year24.html",
     "relUrl": "/course_docs/programme/year24.html"
-  },"60": {
+  },"61": {
     "doc": "Student Handbook",
     "title": "Student Handbook",
     "content": "# Student Handbook *This is a student handbook for the HDRUK-Turing PhD Programme in Health Data Science. Information contained within here is only appropriate to students registered on the course.* ## Contents [**Introduction**](/course_docs/introduction.html) A word from the Directors about the programme, its mission and our expectations of our students. [**Programme Details**](/course_docs/programme/programme.html) Detailed information about the programme and its training elements. [**Staff**](/course_docs/staff.html) Information about the people who run the programme. [**Administrative Matters**](/course_docs/admin.html) Information about the administrative support available to you. [**Student Support**](/course_docs/support.html) Details about how we will try to support you during your studies. [**Programme Timetable**](/course_docs/timetable.html) Details of all programmed events in the current academic year. ",

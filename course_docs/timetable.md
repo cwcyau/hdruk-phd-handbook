@@ -18,6 +18,14 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 | 24 November 2021 | 12:00-13:00| Yau | IQVIA |
 | 8 December 2021 | 12:00-13:00| Yau | BHF Data Science Centre |
 
+## Workshops
+
+| Date | Time | Organiser | Event |
+|-------|-------|-----------|-------|
+| 7 January 2022 | 11:00-12:30 | HDR UK | Choosing your PhD projects |
+| March 2022 (tbc) | tbc | HDR UK | How to write a research proposal? |
+| March 2022 (tbc) | tbc | HDR UK | How to avoid jargon? Writing a good lay summary |
+
 
 ## Immersion Weeks
 
@@ -28,6 +36,7 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 | tbc (postponed due to covid) | University of Leeds | Peter Tennant | Turing Causal Inference School |
 | 1st week of March (tbc) | AstraZeneca | Christopher Yau | |
 | 25-29 April 2022 (tbc) | NHS Digital | Christopher Yau | |
+
 
 ## Expenses
 
