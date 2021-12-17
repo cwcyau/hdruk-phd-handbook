@@ -41,6 +41,8 @@ A maximum of *£35* can be claimed for a full day of subsistence (breakfast, lun
 
 | Date | Event | Description |
 | ---- | ------| ----------- |
+| January 2022 | Proposal development workshop | Workshop on project proposal development. How to identify supervisors and choose projects. |
+| March 2022 | PPIE workshop | Workshop on communicating your science to the public. |
 | 30 June 2022 | Initial Submission | Submission of first proposal (all students except Oxford) |
 | 11-15 July 2022 | First Review | Each student will attend an academic review panel |
 | 14 August 2022 | Revision Submission | If required, proposal revision to be submitted. First review deadline for Oxford students. |

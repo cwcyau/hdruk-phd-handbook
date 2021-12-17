@@ -100,6 +100,10 @@ If revisions are required, the candidate will be provided with advice and guidan
 
 It is considered unlikely that major revisions would be required if the candidates routinely consult with their University Lead or the Programme Directors during the project proposal development.
 
+### Public-Patient Review
+
+HDRUK is heavily invested in ensuring the public is consulted about the research that it undertakes. You will present your proposals to a specially convened public-patient advisory group and respond to feedback as part of your proposal development.
+
 ### Scientific Remit
 
 HDRUK research currently covers a broad range of areas but proposed research projects must involve quantitative-based research which is likely to involve one or more of the following:
