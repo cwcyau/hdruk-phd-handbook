@@ -23,12 +23,11 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 
 | Dates | Event | Organiser | Notes |
 |-------|-------|-----------|-------|
-| 15-19 November 2021 | Immersion Week - University of Oxford | Tom Nichols | Introduction to Epidemiology |
-| 1-3 December 2021 | Immersion Week - University of Manchester | Niels Peek | Introduction to Clinical Prediction Models |
-| 17-21 January 2022 | Immersion Week - University of Leeds | Peter Tennant | Turing Causal Inference School |
-| tbc | Immersion Week - NHS Digital | Christopher Yau | |
-| tbc | Immersion Week - Astra Zeneca | Christopher Yau | |
-
+| 15-19 November 2021 | University of Oxford | Tom Nichols | Introduction to Epidemiology |
+| 1-3 December 2021 | University of Manchester | Niels Peek | Introduction to Clinical Prediction Models |
+| tbc (postponed due to covid) | University of Leeds | Peter Tennant | Turing Causal Inference School |
+| 1st week of March (tbc) | AstraZeneca | Christopher Yau | |
+| 25-29 April 2022 (tbc) | NHS Digital | Christopher Yau | |
 
 ## Expenses
 
@@ -37,6 +36,25 @@ Unless otherwise specified accommodation for all residential training events wil
 Travel to and from your normal place of residence for residential training events can be claimed via your university or HDR UK. All travel associated with your training event can also be reclaimed.
 
 A maximum of *£35* can be claimed for a full day of subsistence (breakfast, lunch and dinner).
+
+## PhD Proposals
+
+| Date | Event | Description |
+| ---- | ------| ----------- |
+| 30 June 2022 | Initial Submission | Submission of first proposal (all students except Oxford) |
+| 11-15 July 2022 | First Review | Each student will attend an academic review panel |
+| 14 August 2022 | Revision Submission | If required, proposal revision to be submitted. First review deadline for Oxford students. |
+| 1-2 September 2022 | Final Review | Second academic review of revised proposals following any corrections. This will be the only review for Oxford students. |
+| 12-13 September 2022 | Public Review | Students to present proposals to a Public-Patient review panel. |
+| 26 September 2022 | Final Submission | Final deadline for PhD proposal submission and supervisor confirmation (including on WT Grants system if required). |
+| 30 September 2022 | HDRUK Sign-off | Submission of projects to Wellcome. |
+
+**Notes**
+
+1. Oxford-based students can also use the “Initial submission” deadline and follow the same timeline as other students.
+
+2. **FAILURE** to meet the 30 September 2022 deadline without good reason can lead to the *termination* of your studentship.
+
 
 
 
