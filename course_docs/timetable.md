@@ -17,6 +17,9 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 | 9 November 2021 | 12:00-13:00| Yau | [Modelling & Inference Masterclass Part 2](https://github.com/cwcyau/hdruk-modelling-masterclass) |
 | 24 November 2021 | 12:00-13:00| Yau | IQVIA |
 | 8 December 2021 | 12:00-13:00| Yau | BHF Data Science Centre |
+| 20 January 2022 | 12:00-13:00| Yau | Associate Director - Max Little |
+| 26 January 2022 | 12:00-13:00| Yau | Associate Director - Ioanna Manolopoulou |
+
 
 ## Workshops
 
