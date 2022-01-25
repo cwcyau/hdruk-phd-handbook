@@ -19,7 +19,8 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 | 8 December 2021 | 12:00-13:00| Yau | BHF Data Science Centre |
 | 20 January 2022 | 12:00-13:00| Yau | Associate Director - Max Little |
 | 26 January 2022 | 12:00-13:00| Yau | Associate Director - Ioanna Manolopoulou |
-
+| 16 February 2022 | 12:00-13:00| | HDRUK PhD Supervisor: [Carl Henrik Ek - University of Cambridge](http://carlhenrik.com/) |
+| 23 February 2022 | 12:00-13:00| | HDRUK PhD Supervisor: [Maria Secrier - University College London](https://www.ucl.ac.uk/biosciences/people/dr-maria-secrier) |
 
 ## Workshops
 
