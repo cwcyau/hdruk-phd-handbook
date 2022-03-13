@@ -27,8 +27,8 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 | Date | Time | Organiser | Event |
 |-------|-------|-----------|-------|
 | 7 January 2022 | 11:00-12:30 | HDR UK | Choosing your PhD projects |
-| March 2022 (tbc) | tbc | HDR UK | How to write a research proposal? |
-| March 2022 (tbc) | tbc | HDR UK | How to avoid jargon? Writing a good lay summary |
+| 5 April 2022 | 11:00-13:00 | HDR UK | How to write a research proposal? |
+| 5 April 2022  | 11:00-13:00 | HDR UK | How to avoid jargon? Writing a good lay summary |
 
 
 ## Immersion Weeks
@@ -37,8 +37,8 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 |-------|-------|-----------|-------|
 | 15-19 November 2021 | University of Oxford | Tom Nichols | Introduction to Epidemiology |
 | 1-3 December 2021 | University of Manchester | Niels Peek | Introduction to Clinical Prediction Models |
-| tbc (postponed due to covid) | University of Leeds | Peter Tennant | Turing Causal Inference School |
-| 1st week of March (tbc) | AstraZeneca | Christopher Yau | |
+| (cancelled due to covid) | University of Leeds | Peter Tennant | Turing Causal Inference School |
+| 1-3 March | AstraZeneca | Christopher Yau | |
 | 25-29 April 2022 (tbc) | NHS Digital | Christopher Yau | |
 
 
