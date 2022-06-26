@@ -67,4 +67,5 @@ Hosts will bear no responsibility for arranging or financially supporting travel
 
 ## Planning flowchart
 
+
 ![Immersion Planning Diagram](../images/immersions-planning.png)
