@@ -6,9 +6,11 @@
 
 Immersion weeks are 3-4 day residential events co-organised by HDRUK with a Host Organisation. The purpose of the immersion week is to introduce specific themes, topics or real-world challenges of importance in health data science to PhD students within the environment in which problem holders are based.
 
-## Event Design
+### Participants
 
-Each immersion week will consist of between 6-12 HDRUK PhD students with further external non-HDRUK PhD students recruited where Host organisation agreed and can support the numbers. 
+Each immersion week will consist of between 6-12 HDRUK PhD students with further external non-HDRUK PhD students recruited where Host organisation agreed and can support the numbers. Students will predominantly be in their first year of doctoral studies. 
+
+### Content
 
 Host organisations are free to choose event content and delivery style but are advised to consult HDRUK in case of overlap (e.g. Host wants to provide an introduction to survival analysis but participants have previously been introduced to survival analysis through previous studies). 
 
@@ -19,10 +21,22 @@ Examples of content from previous past events include:
 - Computational exercises including small data analysis or programming tasks,
 - Student-led research activities where students are direct to conduct short research pieces,
 - Group-based activities including reading groups.
+- Interactive discussions with experts.
+- Careers-related discussions.
 
-## Participant Information
+### Participant Information
 
 Participating students can be assumed to have graduate-level competencies in mathematics and computing. No prior experience in the life or medical sciences can be assumed.
+
+### Further connections
+
+Hosts are encouraged to engage with HDRUK students and to offer suggestions for further direct collaborations. This could be via:
+
+1. Short 3-6 month individual or groups projects as part of the HDRUK PhD training programme.
+2. Internships as formal employees or members of Host organisations.
+3. Full PhD research collaborations.
+
+HDRUK PhD students have considerable autonomy over their training programme in Year 1 and are able to take on project work throughout Year 1 but particularly during the period June-September at the end of their first year when there is no programmed content.
 
 ## Event Information
 
