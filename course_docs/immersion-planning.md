@@ -1,14 +1,14 @@
 # Immersion Planning
 
-** This information is for immersion week host organisation **
+** This information is for immersion week host organisations **
 
 ## About
 
-Immersion weeks are 3-4 day residential events co-organised by HDRUK with a Host Organisation. The purpose of the immersion week is to introduce specific themes or topics of importance in health data science to HDRUK (and external) PhD students within the environment in which problem holders are based.
+Immersion weeks are 3-4 day residential events co-organised by HDRUK with a Host Organisation. The purpose of the immersion week is to introduce specific themes, topics or real-world challenges of importance in health data science to PhD students within the environment in which problem holders are based.
 
 ## Event Information
 
-Each immersion week will consist of between 6-12 HDRUK PhD students with potentially further external students recruited where Host organisation agreed and can support the numbers.
+Each immersion week will consist of between 6-12 HDRUK PhD students with further external non-HDRUK PhD students recruited where Host organisation agreed and can support the numbers.
 
 Hosts will be required to provide the following information during the development and delivery of the immersion :
 
