@@ -13,11 +13,12 @@ These are the team responsible for the day-to-day running of the programme.
 
 | Name        | Role           | Institution | Link  |
 :------------- :---------- :------------- :-----|
-| Christopher Yau | PhD Programme Director | Manchester | [Link](https://cwcyau.github.io/) |
+| Christopher Yau | PhD Programme Director | Oxford | [Link](https://cwcyau.github.io/) |
+| Dona Reddiar | Programme Manager | HDRUK | https://www.hdruk.ac.uk/people/dona-reddiar-2/ |
 | Max Little | Associate Director| Birmingham | [Link](http://www.maxlittle.net/home/index.php) |
 | Ioanna Manolopoulou | Associate Director | UCL | [Link](https://ioannamanolopoulou.github.io/) |
 | Sarah Cadman | Director for Talent & Training | HDRUK | [Link](https://www.hdruk.ac.uk/people/sarah-cadman/) |
-| Amy Gallimore | Recruitment Coordinator | Turing | [Link](https://www.turing.ac.uk/people/business-team/amy-gallimore) |
+| Jane Formston | Recruitment | Turing | [Link](https://www.turing.ac.uk/people/business-team/) |
 
 
 ## University Leads
