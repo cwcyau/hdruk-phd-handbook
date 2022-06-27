@@ -6,6 +6,8 @@ parent: Year 1
 grand_parent: Programme Details
 ---
 
+Last update: 27 June 2022
+
 # Preparing your research proposal
 
 The overall objective of Year 1 of the PhD Programme is to develop a three-year PhD research (“thesis”) project proposal that you will carry out in Years 2-4. Research proposals will be formally reviewed by a panel of academics and a decision made on the suitability of the project.
@@ -70,12 +72,22 @@ The candidate shall submit a written PhD research proposal no less than one week
 
 ### The Review Panel
 
-The review panel shall consist of no less than three academic representatives to include:
+The review panel shall consist of no less than three academic representatives to normally include:
 - The HDRUK-Turing PhD Director (or nominated representative)
 - The University Lead (or nominated representative) for the candidates’ institution
 - An independent academic representative not based at the candidates’ institution.
 
-No members of the proposed supervision team shall be present on the review panel and suitable substitutes will be put in place if any of the above are proposed supervisors. 
+No members of the proposed supervision team shall be present on the review panel and suitable substitutes will be put in place if any of the above are proposed supervisors or specific technical expertise is required. 
+
+### Review Process
+
+Each review will last no longer than 30 minutes. 
+
+The candidate will be asked to open the review with a 5-minute overview of their proposed project (slides optional but no more than 3).
+
+The Review Panel will then ask the candidates questions regarding the research proposal in the remaining time.
+
+Following questions, candidates will be asked to leave the meeting. Candidates will be informed of the outcome by the Programme Director or their appointed representative usually on the same day. 
 
 ### Evaluation Criteria
 
@@ -92,17 +104,19 @@ The panel shall:
 ### Decisions
 
 At the conclusion of the review, the panel shall make one of three following decisions:
-1.	Proceed to Year 2. The panel considers there to be no major issues with the proposal and no (or very minor) corrections are required.
-2.	Minor revisions. The panel determines that the proposal is sound but some minor revisions are required to clarify or improve the proposal.
-3.	Major revisions. The panel considers that there are significant flaws in the research proposal and a major revision or alternative proposal is required.
+1.	**Proceed to Year 2.** The panel considers there to be no major issues with the proposal and no (or very minor) corrections are required.
+2.	**Minor revisions.** The panel determines that the proposal is sound but some minor revisions are required to clarify or improve the proposal.
+3.	**Major revisions.** The panel considers that there are significant flaws in the research proposal and a major revision or alternative proposal is required.
 
 If revisions are required, the candidate will be provided with advice and guidance as to the additional steps required. 
 
-It is considered unlikely that major revisions would be required if the candidates routinely consult with their University Lead or the Programme Directors during the project proposal development.
+It is considered *unlikely* that major revisions would be required if the candidates routinely consult with their University Lead or the Programme Directors during the project proposal development.
 
 ### Public-Patient Review
 
 HDRUK is heavily invested in ensuring the public is consulted about the research that it undertakes. You will present your proposals to a specially convened public-patient advisory group and respond to feedback as part of your proposal development.
+
+## Additional Guidance
 
 ### Scientific Remit
 
@@ -119,8 +133,6 @@ Primary research activities should not include experimental (laboratory-based) w
 ### Supervisory Support
 
 Supervision teams are expected to contain the range and depth of expertise required to support the student in their personal and research development. Otherwise, there are no restrictions on the constitution of supervision teams beyond the normal requirements set by individual universities on supervisor eligibility. 
-
-*Note - due to the COVID-19 pandemic, students may not have had normal interactions with their universities and the opportunity to meet academics. Therefore some flexibility can be shown to allow supervision teams to grow during the PhD.*
 
 ## Project Submission
 
