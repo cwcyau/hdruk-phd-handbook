@@ -60,7 +60,7 @@ A maximum of *£35* can be claimed for a full day of subsistence (breakfast, lun
 | 11-15 July 2022 | First Review | Each student will attend an academic review panel |
 | 14 August 2022 | Revision Submission | If required, proposal revision to be submitted. First review deadline for Oxford students. |
 | 1-2 September 2022 | Final Review | Second academic review of revised proposals following any corrections. This will be the only review for Oxford students. |
-| 12-13 September 2022 | Public Review | Students to present proposals to a Public-Patient review panel. |
+| 12 September 2022 | Public Review | Students to present proposals to a Public-Patient review panel. |
 | 26 September 2022 | Final Submission | Final deadline for PhD proposal submission and supervisor confirmation (including on WT Grants system if required). |
 | 30 September 2022 | HDRUK Sign-off | Submission of projects to Wellcome. |
 
