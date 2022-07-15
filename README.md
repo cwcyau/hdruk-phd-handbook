@@ -23,5 +23,5 @@ Details about how we will try to support you during your studies.
 [**Programme Timetable**](course_docs/timetable.md)  
 Details of all programmed events in the current academic year 2021/22.
 
-[**Programme Timetable**](course_docs/timetable2223.md)  
+[**Upcoming Programme Timetable**](course_docs/timetable2223.md)  
 Details of all programmed events in the for the next academic year 2022/23.
