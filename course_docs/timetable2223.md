@@ -4,6 +4,8 @@ title: Timetable (2022/23)
 nav_order: 15
 ---
 
+**THIS IS CURRENTLY USED FOR PLANNING ONLY. NO DATES/EVENTS HAVE BEEN CONFIRMED.**
+
 # Programme Timetable (2022/23)
 
 All events are available on the HDRUK PhD Programme Google Calendar which contains Zoom links.
