@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Timetable (2022/23)
-nav_order: 14
+nav_order: 15
 ---
 
 # Programme Timetable (2022/23)
