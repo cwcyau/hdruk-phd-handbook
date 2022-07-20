@@ -30,10 +30,10 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 
 | Dates | Event | Organiser | Notes |
 |-------|-------|-----------|-------|
-| tbc | Algorithmic Fairness | Ioanna Manoupolou | |
-| tbc | Structural Causal Modelling | Max Little | |
+| Nov' 22 tbc | Algorithmic Fairness | Ioanna Manoupolou | |
+| Jan' 22 tbc | Structural Causal Modelling | Max Little | |
 | tbc | tbc | Christopher Yau | |
-| tbc | NHS Data Challenge | Iain Styles | |
+| Feb/Mar' 22 | NHS Data Challenge | Iain Styles | |
 
 
 ## Expenses
