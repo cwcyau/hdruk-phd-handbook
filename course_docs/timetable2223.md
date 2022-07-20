@@ -30,11 +30,11 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 
 | Dates | Event | Organiser | Notes |
 |-------|-------|-----------|-------|
-| Oct' 22 tbc | Induction | Dona | |
-| Nov' 22 tbc | Algorithmic Fairness | Ioanna Manoupolou | |
-| Jan' 22 tbc | Structural Causal Modelling | Max Little | |
-| tbc | tbc | Christopher Yau | |
-| Feb/Mar' 22 | NHS Data Challenge | Iain Styles | |
+| Oct' 22 tbc | Induction | Dona | Location: Birmingham? |
+| Nov' 22 tbc | Algorithmic Fairness | Ioanna Manoupolou | London |
+| Jan' 22 tbc | Structural Causal Modelling | Max Little | Birmingham?/Oxford? |
+| tbc | tbc | Christopher Yau | External partner |
+| Feb/Mar' 22 | NHS Data Challenge | Iain Styles | Birmingham |
 
 
 ## Expenses
