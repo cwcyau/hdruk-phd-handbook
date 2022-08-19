@@ -21,6 +21,7 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 
 | Date | Time | Organiser | Event |
 |-------|-------|-----------|-------|
+| 14/12/2022 | 09:30-17:00 | HDR UK | [Annual Scientific Conference](https://www.hdruk.ac.uk/news-opinion-events/events/health-data-research-uk-scientific-conference-2022-data-for-global-health-and-society/?utm_source=staff+email+signature&utm_medium=email&utm_campaign=science+conference) |
 | tbc | 11:00-12:30 | HDR UK | Choosing your PhD projects |
 | tbc | 11:00-13:00 | HDR UK | How to write a research proposal? |
 | tbc | 11:00-13:00 | HDR UK | How to avoid jargon? Writing a good lay summary |
