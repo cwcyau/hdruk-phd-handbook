@@ -70,7 +70,7 @@ You should also join our dedicated Slack channel, for HDR UK PhD students, to di
 
 ## HDR UK Branding & Style Guides
 
-Brand guidelines and HDR UK logo are available for download [here](https://www.hdruk.ac.uk/wp-content/uploads/2019/10/HDRUK-Brand-Guidelines.pdf). A template for PowerPoint is available for download on Box using your HDR UK credentials [here](https://hdruk.box.com/s/w303mz0jtnn8i4md7qzgo6y78nahiegb)
+Brand guidelines and HDR UK logo are available for download [here](https://www.hdruk.ac.uk/wp-content/uploads/2019/10/HDRUK-Brand-Guidelines.pdf). A template for PowerPoint is available for download on Box using your HDR UK credentials [here](https://hdruk.box.com/s/w303mz0jtnn8i4md7qzgo6y78nahiegb).
 
 ## PhD Student Privacy Notice
 
