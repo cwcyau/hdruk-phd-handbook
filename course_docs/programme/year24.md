@@ -2,7 +2,7 @@
 layout: default
 title: Year 2-4
 parent: Programme Details
-nav_order: 4
+nav_order: 3
 ---
 
 # Year 2-4 Training Programme

@@ -2,7 +2,7 @@
 layout: default
 title: Year 1
 parent: Programme Details
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
@@ -24,20 +24,6 @@ The overall objective of Year 1 of the PhD Programme is to develop a three-year 
 Identifying a research project that you will dedicate three years of your life towards can be challenging. You will be supported by your university and HDRUK in these efforts through a number of activities in the first year to help you with this. [See more information on choosing your PhD](phd-choice.md).
 
 Continuation of your funding support from HDRUK beyond Year 1 is dependent only on successfully developing a credible thesis project. There is no coursework or exams.
-
-## Induction
-
-The two-day induction meeting at the start of your studies is an opportunity for all HDRUK staff and students to meet each other for the first time. It will cover a range of scientific and administrative matters, including overviews of HDRUK's priority research themes and data-resources, and how to make the most of students' opportunities to connect with like-minded students, across the programme and on other programmes within their home unversities. We will also begin to start cohort development activities to ensure you keep networked as a group throughout your studies. 
-
-<span style="color: blue;">**Post-induction checklist:** </span>
-
-1. You should be provided with an HDRUK e-mail address,
-2. You should get access to the HDRUK PhD Slack channel,
-3. You should be given permission to access the HDRUK Box file service.
-4. Information about the HDRUK Expenses system.
-
-
-Contact the Programme Team (phd@hdruk.ac.uk) if you do not receive any of this information.
 
 ## University-based activities
 
@@ -82,31 +68,4 @@ Your thesis project proposals will be assessed by both the Programme Director an
 You may submit your proposal for review in either June or August of your first year. The first deadline allows time for substantial revisions should the project be assessed have deficiencies or permit PhD studies to begin by the summer. The second deadline allows students flexibility to spend longer on first year activities to support project development but does not leave substantial time for revisions should proposals be unsuitable.
 
 <span style="color: red;">**HDRUK approved Research Proposals must be submitted by the 30 September to Wellcome at the end of your first year. Failure to do so may jeopardise continuation of funding support.**</span>
-
-## Away Week
-
-We will hold an annual retreat each summer to support cohort development. These might include a team building exercise at an outdoor education centre or an international visit to a scientific centre.
-
-
-## Approximate Timetable
-
-| Date | Event |
-:- | :-----------
-October | Induction Event
-October-December | Workshop Series 1
-November | Immersion Week 1
-January | Immersion Week 2
-March | Immersion Week 3
-January-April | Workshop Series 2
-April | PPIE Workshop
-May-August | Thesis Project Development
-June | Research Project Assessment Deadline 1
-July | Away Week
-August | Research Project Assessment Deadline 2
-September | Research Project Submission / Begin Thesis Project
-
-
-
-
-
 
