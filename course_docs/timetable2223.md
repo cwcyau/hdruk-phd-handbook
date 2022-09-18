@@ -36,10 +36,19 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 
 | Dates | Event | Organiser | Notes |
 |-------|-------|-----------|-------|
+<<<<<<< Updated upstream
 | 9-11 November 2022 | Algorithmic Fairness | Ioanna Manoupolou | London |
 | 14/12/2022 | 09:30-17:00 | HDR UK | [Annual Scientific Conference](https://www.hdruk.ac.uk/news-opinion-events/events/health-data-research-uk-scientific-conference-2022-data-for-global-health-and-society/?utm_source=staff+email+signature&utm_medium=email&utm_campaign=science+conference) |
 | 17-19 Jan 22 (tbc) | Structural Causal Modelling | Max Little | Oxford (tbc) |
 | Feb/Mar 22 | Data Challenge | Iain Styles | Birmingham |
+=======
+| Oct' 22 tbc | Induction | Dona | Birmingham?London? |
+| Nov' 22 tbc | Algorithmic Fairness | Ioanna Manoupolou | London |
+| Jan' 22 tbc | Structural Causal Modelling | Max Little | Birmingham?/Oxford? |
+| tbc | tbc | Christopher Yau | External partner |
+| Feb/Mar' 22 | NHS Data Challenge | Iain Styles | Birmingham |
+
+>>>>>>> Stashed changes
 
 ## Expenses
 
