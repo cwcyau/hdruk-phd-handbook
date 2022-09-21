@@ -8,15 +8,15 @@ nav_order: 10
 
 ## Programme Administration
 
-The Programme Administration Team are here to provide help and support on a range of administrative issues relating to the HDRUK PhD programme. The Administration Team co-ordinate the administrative functions of the PhD Programme and we are often your first point of contact. Whether you have a question about expenses, training administration or anything else, we are here to help you through your PhD journey.
+The Programme Administration Team are here to provide help and support on a range of administrative issues relating to the HDR UK PhD programme. The Administration Team co-ordinate the administrative functions of the PhD Programme and we are often your first point of contact. Whether you have a question about expenses, training administration or anything else, we are here to help you through your PhD journey.
 
 ## Publications
 
-We look forward to students publishing their work. As your research is supported by HDRUK and Wellcome, you are obliged to appropriately acknowledge the source of your PhD funding with the following statement:
+We look forward to students publishing their work. As your research is supported by HDR UK and Wellcome, you are obliged to appropriately acknowledge the source of your PhD funding with the following statement:
 
 >[INSERT STUDENT NAME] acknowledges the receipt of studentship awards from the Health Data Research UK-The Alan Turing Institute Wellcome PhD Programme in Health Data Science (Grant Ref: 218529/Z/19/Z).
 
-HDRUK will check annually about any accepted or planned publications. Information about publications can be submitted to HDRUK via the [Research Paper Submission](https://hdruk.box.com/s/es1ovvkdojwlgi1jeorn8u5kdf1c68iq) form. 
+HDRUK will check annually about any accepted or planned publications. Information about publications can be submitted to HDR UK via the [Research Paper Submission](https://hdruk.box.com/s/es1ovvkdojwlgi1jeorn8u5kdf1c68iq) form. 
 
 ## Financial queries
 
@@ -30,7 +30,7 @@ If you or your university have any questions or queries relating to the payment 
 
 As part of your studentship you can claim for all reasonable travel and subsistence expenses incurred from attending HDR UK training events and activities. The amounts are indicated in your award letter.
 
-**Support funds are provided to your university by HDRUK and you should seek to reclaim costs from your university in the first instance.**
+**Support funds are provided to your university by HDR UK and you should seek to reclaim costs from your university in the first instance.**
 
 You should verify with your university that any expenditure is eligible for a claim *before* making any non-refundable bookings or incurring any costs. As Wellcome-funded students you should also check that expenditure complies with [Wellcome expenditure rules](https://wellcome.org/grant-funding/guidance/costs-grantholders-can-claim).
 
@@ -40,7 +40,7 @@ As part of your research, you may be required to pay for access to data, equipme
 
 **Research expenses over £3,000 require HDR UK approval**
 
-For research expenses (over £3,000) and any other claims that need to be made direct to HD RUK, students should obtain the HDRUK PhD Programme Director's approval by completing the [HDRUK Expenses form](https://hdruk.box.com/s/0t8q29manclim0p4887k9m1d4rk1v71u) *before* making any claim and ideally before incurring any expenses.
+For research expenses (over £3,000) and any other claims that need to be made direct to HDR UK, students should obtain the HDR UK PhD Programme Director's approval by completing the [HDRUK Expenses form](https://hdruk.box.com/s/0t8q29manclim0p4887k9m1d4rk1v71u) *before* making any claim and ideally before incurring any expenses.
 
 You should verify with your university that any research expenditure is eligible for a claim *before* making any non-refundable purchases or incurring any costs. As Wellcome-funded students you should also check that expenditure complies with [Wellcome expenditure rules](https://wellcome.org/grant-funding/guidance/costs-grantholders-can-claim).
 
