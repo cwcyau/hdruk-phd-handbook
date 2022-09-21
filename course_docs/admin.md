@@ -22,9 +22,9 @@ HDRUK will check annually about any accepted or planned publications. Informatio
 
 ### Stipends
 
-If you or your university have any questions or queries relating to the payment of fees or stipend for your studentship, please contact the Administration Team in the first instance at [phd@hdruk.ac.uk](phd@hdruk.ac.uk)
-
 **Your stipend is paid to you by your university. If you have questions about the frequency of these payments, please contact your department.**
+
+If you or your university have any questions or queries relating to the payment of fees or stipend for your studentship, please contact the Administration Team in the first instance at [phd@hdruk.ac.uk](phd@hdruk.ac.uk)
 
 ### How to claim for Programme related travel and subsistence expenses
 
@@ -36,17 +36,17 @@ You should verify with your university that any expenditure is eligible for a cl
 
 ### How to claim for Research expenses
 
-As part of your research, you maybe required to pay for access to data, equipment or travel to conferences. Students have access to a substantial research fund which is administered by your universities on behalf of HDRUK. The amounts are indicated in your award letter.
+As part of your research, you may be required to pay for access to data, equipment or travel to conferences. Students have access to a substantial research fund which is administered by your universities on behalf of HDR UK. The amounts are indicated in your award letter.
 
-**Research expenses over £3,000 require HDRUK approval**
+**Research expenses over £3,000 require HDR UK approval**
 
-For research expenses (over £3,000) and any other claims that need to be made direct to HDRUK, students should obtain the HDRUK PhD Programme Director's approval by completing the [HDRUK Expenses form](https://hdruk.box.com/s/0t8q29manclim0p4887k9m1d4rk1v71u) *before* making any claim and ideally before incurring any expenses.
+For research expenses (over £3,000) and any other claims that need to be made direct to HD RUK, students should obtain the HDRUK PhD Programme Director's approval by completing the [HDRUK Expenses form](https://hdruk.box.com/s/0t8q29manclim0p4887k9m1d4rk1v71u) *before* making any claim and ideally before incurring any expenses.
 
 You should verify with your university that any research expenditure is eligible for a claim *before* making any non-refundable purchases or incurring any costs. As Wellcome-funded students you should also check that expenditure complies with [Wellcome expenditure rules](https://wellcome.org/grant-funding/guidance/costs-grantholders-can-claim).
 
 ## Absence & Sickness
 
-In the event of sickness or if you are unable to attend any HDRUK training activities, please notify the Administration Team at the earliest opportunity. The [absence and sickness policy](https://hdruk.box.com/s/z2lguooxhftktjy314fmu5ppv2if7ske) is available via Box.
+In the event of sickness or if you are unable to attend any HDR UK training activities, please notify the Administration Team at the earliest opportunity. The [absence and sickness policy](https://hdruk.box.com/s/z2lguooxhftktjy314fmu5ppv2if7ske) is available via Box.
 
 ## Leave of absence
 
