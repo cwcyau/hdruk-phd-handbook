@@ -24,7 +24,9 @@ Your induction will consist of two parts:
 1. Your enrolment and induction at your home university,
 2. Your induction at HDR UK.
 
-Your enrolment and induction at your home university will be administered and handled by your home university who will provide information and instructions. We typically allow students to enrol at their home universities first before beginning HDRUK induction. This is because your home university will be your degree awarding institution (and for international students your official visa sponsors).
+Your enrolment and induction at your home university will be administered and handled by your home university who will provide information and instructions. We typically allow students to enrol at their home universities first before beginning HDR UK induction. This is because your home university will be your degree awarding institution (and for international students your official visa sponsors).
+
+Please note that stipends and other administrative matters relating to the PhD programme are described [here](https://cwcyau.github.io/hdruk-phd-handbook/course_docs/admin.html). 
 
 ## Things to do
 
