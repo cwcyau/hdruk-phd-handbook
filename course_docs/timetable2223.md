@@ -12,7 +12,7 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 
 | Date | Time | Organiser | Event |
 |-------|-------|-----------|-------|
-| 5 Oct (tbc) | 12:00-14:00 | Yau | Virtual |
+| 6 Oct (tbc) | 12:00-13:00 | Yau | Virtual |
 | 8 Nov (tbc) | 12:00-17:00 | Yau | London |
 
 ## Lunchtime Seminar Series
