@@ -44,6 +44,8 @@ You can check if you are required to register for an account (i.e. you are in re
 
 <span style="color: blue;">Please create an [Wellcome Grant Tracker](https://wtgrants.wellcome.org/Login.aspx?ReturnUrl=%2f) account for yourself, if required to do so, no later than **1 October** in the year of your entry.</span>
 
+Please store your log-in details carefully as you will need to log in to this account next year to submit your PhD proposal.
+
 ### HDR UK E-mail and other services
 
 You will be provided with an HDR UK e-mail address after you have enrolled at your university. The e-mail address will be used for all official communications during your period of study. It will also enable your access to the HDR UK Slack group, the [Box](https://www.box.com/) file-sharing service and the expenses system.
