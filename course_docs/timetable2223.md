@@ -62,7 +62,7 @@ A maximum of *£35* can be claimed for a full day of subsistence (breakfast, lun
 | 1-2 September 2023 | Final Review | Second academic review of revised proposals following any corrections. This will be the only review for Oxford students. |
 | 12-13 September 2023 | Public Review | Students to present proposals to a Public-Patient review panel. |
 | 26 September 2023 | Final Submission | Final deadline for PhD proposal submission and supervisor confirmation (including on WT Grants system if required). |
-| 30 September 2023 | HDRUK Sign-off | Submission of projects to Wellcome. |
+| 30 September 2023 | HDRUK Sign-off | Submission of projects to Wellcome (for Wellcome-funded students). |
 
 **Notes**
 
