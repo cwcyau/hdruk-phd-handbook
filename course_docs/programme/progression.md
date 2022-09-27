@@ -18,7 +18,7 @@ You will need to produce a research proposal that meets the following criteria:
 
 1.	The primary supervisor should be an academic staff member of the university at which the student is registered, with a contract of employment that extends beyond the end of study period for the student. They would also commit to delivering at least one day per year of material within the first-year training programme for each cohort of students.
 2.	We strongly encourage the inclusion of early-career academics and colleagues from other institutions as members of supervisory teams. 
-3.	The summary of the proposed area of work should be a plan rather than a prescription, setting specific initial objectives and broad later lines of inquiry. It should give sufficient detail to confirm that it falls with the scope of the HDRUK PhD programme, i.e. has the potential for methodological innovation and substantive application. 
+3.	The summary of the proposed area of work should be a plan rather than a prescription, setting specific initial objectives and broad later lines of inquiry. It should give sufficient detail to confirm that it falls with the scope of the HDR UK PhD programme, i.e. has the potential for methodological innovation and substantive application. 
 
 ## The Proposal
 
@@ -73,7 +73,7 @@ The candidate shall submit a written PhD research proposal no less than one week
 ### The Review Panel
 
 The review panel shall consist of no less than three academic representatives to normally include:
-- The HDRUK-Turing PhD Director (or nominated representative)
+- The HDR UK-Turing PhD Director (or nominated representative)
 - The University Lead (or nominated representative) for the candidates’ institution
 - An independent academic representative not based at the candidates’ institution.
 
@@ -92,7 +92,7 @@ Following questions, candidates will be asked to leave the meeting. Candidates w
 ### Evaluation Criteria
 
 The panel shall:
-1.	Evaluate if the proposed research falls under the scientific remit of the HDRUK-Turing PhD Programme.
+1.	Evaluate if the proposed research falls under the scientific remit of the HDR UK-Turing PhD Programme.
 2.	Judge if the proposed research is feasible and that a sufficient body of work could be achieved within three years to permit the award of a doctorate.
 3.	Determine if the supervision team has the appropriate range of expertise, experience and availability to suitably guide the candidate.
 4.	Verify that the necessary data and/or computational resources are in place (or there is a credible plan for these to be in place) to accomplish the research objectives.
@@ -114,7 +114,7 @@ It is considered *unlikely* that major revisions would be required if the candid
 
 ### Public-Patient Review
 
-HDRUK is heavily invested in ensuring the public is consulted about the research that it undertakes. You will present your proposals to a specially convened public-patient advisory group and respond to feedback as part of your proposal development.
+HDR UK is heavily invested in ensuring the public is consulted about the research that it undertakes. You will present your proposals to a specially convened public-patient advisory group and respond to feedback as part of your proposal development.
 
 ## Additional Guidance
 
