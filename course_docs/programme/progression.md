@@ -138,7 +138,6 @@ Supervision teams are expected to contain the range and depth of expertise requi
 
 Once approved, a subset of students will be required to submit their research proposals to Wellcome via the WT Grants Tracker system.
 
-Basic Science PhD programme: HDR UK - Turing - Wellcome Health Data Science
 Name of administering organisation: Health Data Research UK
 
 After you submit, HDR UK will then be asked to approve all submissions on the WT Grants System. All proposed supervisors will need to also digitally verify their participation. <span style="color: red;">**Students are advised to submit projects well in advance of the given deadlines to allow these approvals to be obtained.**</span> 
