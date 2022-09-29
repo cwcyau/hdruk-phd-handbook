@@ -63,12 +63,11 @@ You will be assigned an HDR UK Director of Studies (DoS) who will be your main a
 1. Have you registered with ORCID?
 2. Have you created an account on the Wellcome Grant Tracker? [if required]
 3. Have you emailed the PhD team to activate your HDR UK email address?
-4. Have you obtained access to the HDR UK PhD Slack channel?
-5. Have you been given permission to access the HDR UK Box file service?
-6. Have you received information about the HDR UK Expenses system?
-7. Have you contacted your Director of Studies?
+4. Have you sent the PhD team your ORCID number and the email address you've used to create a Wellcome Grant Tracker account (if applicable)?
+5. Have you obtained access to the HDR UK PhD Slack channel?
+6. Have you been given permission to access the HDR UK Box file service?
+7. Have you received information about the HDR UK Expenses system?
+8. Have you contacted your Director of Studies?
 
 Contact the Programme Team ([phd@hdruk.ac.uk](phd@hdruk.ac.uk)) if you do not receive any of this information.
-
-
 
