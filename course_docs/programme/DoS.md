@@ -40,20 +40,20 @@ If you would like to change your DoS, please contact [phd@hdruk.ac.uk](phd@hdruk
 | Brind | 2020 | Yau | N |
 | Withnell | 2020 | Yau | Y |
 | Wang | 2020 | Yau | N |
-| Roskems-Hieter | 2021 | Yau | N |
+| Roskams-Hieter | 2021 | Yau | N |
 | Chislett | 2021 | Manolopoulou | N | 
 | Wambua | 2021 | Yau | N |
 | Wells | 2021 | Manolopoulou | Y |
 | Jiang | 2021 | Yau | Y |
 | Hong | 2021 | Little | Y |
-| Benetiz-Aurioles | 2021 | Little | N |
+| Benitez-Aurioles | 2021 | Little | N |
 | Mayet | 2021 | Little | Y |
 | Siemek | 2021 | Manolopoulou | Y |
 | Fletcher | 2022 | Manolopoulou | Y |
 | Uppal | 2022 | Little | Y |
 | Gao | 2022 | Little | N |
 | Lee | 2022 | Yau | Y |
-| Miao | 2022 | Little | N |
+| Mao | 2022 | Little | N |
 | Oliver | 2022 | Manolopoulou | Y |
 | Rodriguez | 2022 | Manolopoulou | Y |
 
