@@ -12,8 +12,8 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 
 | Date | Time | Organiser | Event |
 |-------|-------|-----------|-------|
-| 6 Oct (tbc) | 12:00-13:00 | Yau | Virtual |
-| 8 Nov (tbc) | 12:00-17:00 | Yau | London |
+| 6 Oct | 12:00-13:00 | Yau | Virtual |
+| 8 Nov | 12:00-17:00 | Yau | London |
 
 ## Lunchtime Seminar Series
 
@@ -38,7 +38,7 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 |-------|-------|-----------|-------|
 | 9-11 November 2022 | [Fairness in Health Data Modelling](https://github.com/cwcyau/healthdatascienceacademy/blob/main/courses/fairness.md) | Ioanna Manoupolou | London |
 | 14 December 2022 | [Annual Scientific Conference](https://www.hdruk.ac.uk/news-opinion-events/events/health-data-research-uk-scientific-conference-2022-data-for-global-health-and-society/?utm_source=staff+email+signature&utm_medium=email&utm_campaign=science+conference) | HDR UK | Birmingham |
-| 17-19 Jan 22 (tbc) | Structural Causal Modelling | Max Little | Oxford (tbc) |
+| 17-19 Jan 22 | Structural Causal Modelling | Max Little | Oxford |
 | Jan' 22 tbc | Case Studies in Experimental Design | Iain Styles | Birmingham |
 | Mar' 22 tbc | PIONEER Data Challenge | Iain Styles | Birmingham |
 
