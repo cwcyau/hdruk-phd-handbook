@@ -55,7 +55,7 @@ A maximum of *£35* can be claimed for a full day of subsistence (breakfast, lun
 | ---- | ------| ----------- |
 | March 2023 | Proposal development workshop | Workshop on project proposal development. How to identify supervisors and choose projects. |
 | March 2023 | PPIE workshop | Workshop on communicating your science to the public. |
-| 30 June 2023 | Initial Submission | Submission of first proposal (all students except Oxford) |
+| 2 July 2023 | Initial Submission | Submission of first proposal (all students except Oxford) |
 | 11-15 July 2023 | First Review | Each student will attend an academic review panel |
 | 14 August 2023 | Revision Submission | If required, proposal revision to be submitted. First review deadline for Oxford students. |
 | 1-2 September 2023 | Final Review | Second academic review of revised proposals following any corrections. This will be the only review for Oxford students. |
