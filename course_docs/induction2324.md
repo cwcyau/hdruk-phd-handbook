@@ -13,7 +13,7 @@ nav_order: 15
 | 27 Sep | 14:00-16:00 | Chan | Data Science: A Clinician's View | [Vaughan House, University of Manchester](https://maps.app.goo.gl/ke4XPSTzbskyAHDS9) |
 | 27 Sep | 16:00-17:00 | Jose/Tianxiao | PhD Student Talks | [Vaughan House, University of Manchester](https://maps.app.goo.gl/ke4XPSTzbskyAHDS9) |
 | 27 Sep | 17:00-18:00 | - | Check-in Hotel | [Motel One, Piccadily](https://maps.app.goo.gl/A7SYuiUAURqqpLcF9) |
-| 27 Sep | 18:00-21:00 | - | Dinner | [Motel One, Piccadily](https://maps.app.goo.gl/az3iSNuC7sRA57mP6) |
+| 27 Sep | 18:00-21:00 | - | Dinner | [Maray, Manchester](https://maps.app.goo.gl/az3iSNuC7sRA57mP6) |
 
 # Meals
 
