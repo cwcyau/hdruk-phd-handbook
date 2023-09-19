@@ -12,7 +12,7 @@ All events are available on the HDRUK PhD Programme Google Calendar which contai
 
 | Date | Time | Organiser | Event |
 |-------|-------|-----------|-------|
-| 27 Sep | 12:00-21:00 | Yau | Manchester |
+| 27 Sep | 12:00-21:00 | Yau | [Link to details](induction2324.md) |
 
 ## Lunchtime Seminar Series
 
