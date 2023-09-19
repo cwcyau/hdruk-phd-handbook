@@ -20,5 +20,5 @@ Information about the administrative support available to you.
 [**Student Support**](course_docs/support.md)  
 Details about how we will try to support you during your studies.
 
-[**Programme Timetable (2022/23)**](course_docs/timetable2223.md)  
-Details of all programmed events in the for the academic year 2022/23.
+[**Programme Timetable (2023/24)**](course_docs/timetable2324.md)  
+Details of all programmed events in the for the academic year 2023/24.
