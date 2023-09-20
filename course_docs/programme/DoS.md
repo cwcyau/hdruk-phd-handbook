@@ -56,6 +56,13 @@ If you would like to change your DoS, please contact [phd@hdruk.ac.uk](phd@hdruk
 | Mao | 2022 | Little | N |
 | Oliver | 2022 | Manolopoulou | Y |
 | Rodriguez | 2022 | Manolopoulou | Y |
+| Cornett | 2023 | Yau | Y |
+| Mao | 2023 | Yau | Y |
+| Dickson | 2023 | Manolopoulou | Y |
+| Wang | 2023 | Manolopoulou | Y |
+| Issa | 2023 | Yau | Y |
+
+
 
 
 
