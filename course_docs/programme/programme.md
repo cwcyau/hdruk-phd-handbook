@@ -7,7 +7,7 @@ has_children: true
 
 # The Programme
 
-This page describes the overall programme structure. It is split into two parts: 
+This page directs you to content that describes the programme structure:
 
 [**Induction: Starting your studies**](induction.md)   
 
@@ -17,6 +17,8 @@ This page describes the overall programme structure. It is split into two parts:
 - [**Preparing your PhD proposal**](progression.md)  
 
 [**Year 2-4: Research project**](year24.md) 
+
+[**Transition Fund**](transitionfund.md) 
 
 [**Director of Studies**](DoS.md)   
 
