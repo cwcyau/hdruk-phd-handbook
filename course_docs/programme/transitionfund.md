@@ -178,6 +178,6 @@ Detail your justification of costs below:
 3.	HDR UK will assess whether the proposal is consistent with the conditions of the Transition Fund and indicate where a proposal may not be suitable and suggest revisions or that an alternate proposal be developed.
 4.	If an eligible proposal is put forward, HDR UK will then examine the potential challenges in implementing your proposal and may suggest modifications to make it feasible with you and your host organisation.
 5.	If the proposal is deemed proceedable following any modifications, HDR UK will set up the necessary contractual agreements with you and your host organisation to enable the placement to proceed by the proposed start date.
-6.	If the proposal is deemed not proceedable, you will be invited to submit a new proposal if there is sufficient time to do so
+6.	If the proposal is deemed not proceedable, you will be invited to submit a new proposal if there is sufficient time to do so.
 
 
