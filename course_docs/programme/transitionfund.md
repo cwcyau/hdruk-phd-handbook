@@ -108,7 +108,7 @@ interruptions).
 
 ## How to apply
 
-You should send the following information to HDRUK using the headings outlined below ([phd@hdruk.ac.uk](mailto:phd@hdruk.ac.uk)). A Word document template is available in the Student Area of Box:
+You should send the following information to HDRUK using the headings outlined below ([phd@hdruk.ac.uk](mailto:phd@hdruk.ac.uk)). A Word document template is available in the Student Area of Box ([Download Template Link](https://hdruk.box.com/s/2f3e7yyl3uf5ahq6l0mkhp0xe3hqau89)):
 
 **Applicant Details**
 
